@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png",9
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png",9
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream2.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC) HD
+http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC) HD
+http://62.90.90.52/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC) HD
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC) HD
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC) HD
+http://62.90.90.37/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC)
+http://62.90.90.34/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w1733629701_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC)
+http://192.99.18.85:1935/live/channel11/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",11 Kan (IPBC)
+http://82.80.192.11/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2063685957_b1928000.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet
+http://192.99.18.85:1935/live/channel22/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet HD
+http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet HD
+http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8 
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg",12 Keshet HD
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png",Keshet (The Best) HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png",Keshet (The Best)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_1400_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png",Keshet (The Best)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_5000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png",Keshet (The Best)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_850_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg",13 Reshet HD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg",13 Reshet
+http://192.99.18.85:1935/live/channel13/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg",Israeli News Company HD
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg",Israeli News Company
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg",Israeli News Company
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg",Israeli News Company
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2296_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser (TV)
+http://192.99.18.85:1935/live/channel10/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser (TV)
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3202.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser HD
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser HD
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:appmob_,400,500,800,/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png",14 Eser
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png",20 HD
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png",20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg",21 Shopping Channel HD
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg",24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg",24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg",24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png",33 Makan (IPBC) HD
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png",33 Makan (IPBC) HD
+http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",66 Kabbalah La'am
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png",96 Meir TV
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png",96 Meir TV
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",97 Hidabrut HD
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",97 Hidabrut HD
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",99 Knesset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg",Walla News HD
+http://62.90.90.56/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg",Walla News HD
+http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149458138/34369_430428015571_101544000571_5843020_7251630_n_400x400.jpg",Ynet HD
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png",yes 1.
+http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes4hd.png",yes 4.
+http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/yesoh.png",YES OH.
+http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Home_channel_Additional/Yes_Comedy_white.png",YES COMEDY.
+http://192.99.18.85:1935/live/yescomedy/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2017/05/Discovery-Channel-Live-HD.png",Discovery CHANNEL
+http://192.99.18.85:1935/live/discovery/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg?w=1000&h=563&crop=1",NATIONAL GEOGRAPHIC CHANNEL
+http://192.99.18.85:1935/live/natgeowild/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg",HISTORY
+http://192.99.18.85:1935/live/history/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1713238421/logo_sq_400x400.jpg",VIVA
+http://192.99.18.85:1935/live/viva/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://img.wcdn.co.il/f_auto,w_1200,t_54/ar_1.91,c_fill,g_auto/l_black_line,g_south,w_1.0,h_0.1,fl_relative,o_90/g_south_east,x_15,y_12,l_logo2,w_250/1/1/9/2/1192806-46.jpg",VIVA PLUS
+http://192.99.18.85:1935/live/vivaplus/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://albums.timg.co.il/userfolders/204/3040375/3040375201663010118118.jpg?time=0",HOP
+http://192.99.18.85:1935/live/yeladim/playlist.m3u8
