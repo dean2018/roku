@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png",Sky News UK
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png",CNN International
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_Food_Network.png",Food Network USA
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6017.ts
