@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/89.png",BBC ONE
-http://iptv.myeasytv.xyz:8000/live/wVbQEq5ub2/kAASZxq65v/17626.ts
+rtmp://198.16.72.242/stream/2011?e=1513284225&st=KYxVlYlMaWIAoVMWpgAKFw
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/90.png",BBC TWO
 http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/110.png",BBC FOUR
