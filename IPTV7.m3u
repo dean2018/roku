@@ -1,7 +1,183 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png",Sky News UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png",CNN International
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_Food_Network.png",Food Network USA
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6017.ts
+#EXTINF:-1,IL : YES OH HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5883.ts
+#EXTINF:-1,IL : YES 1 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5893.ts 
+#EXTINF:-1,IL : YES 2 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5892.ts 
+#EXTINF:-1,IL : YES 3 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5891.ts 
+#EXTINF:-1,IL : YES 4 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5890.ts 
+#EXTINF:-1,IL : Sport 5 Live HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5896.ts 
+#EXTINF:-1,IL : Sport 5 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5895.ts 
+#EXTINF:-1,IL : YES 5 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5889.ts 
+#EXTINF:-1,IL : YES SPORT1 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5882.ts 
+#EXTINF:-1,IL : YES SPORT2 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5881.ts 
+#EXTINF:-1,IL : YES ACTION HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5888.ts 
+#EXTINF:-1,IL : YES CINEMA HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5887.ts 
+#EXTINF:-1,IL : YES COMEDY HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5886.ts 
+#EXTINF:-1,IL : YES DOCU HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5885.ts 
+#EXTINF:-1,IL : YES DRAMA HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5884.ts 
+#EXTINF:-1,IL : HOT ACTION HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5908.ts 
+#EXTINF:-1,IL : HOT DRAMA HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5907.ts 
+#EXTINF:-1,IL : HOT 3
+http://51.255.77.23:7777/live/hassan00/hassan123456/5906.ts 
+#EXTINF:-1,IL : HOT FUN HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5905.ts 
+#EXTINF:-1,IL : HOT GOLD HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5904.ts 
+#EXTINF:-1,IL : HOT PLUS HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5903.ts 
+#EXTINF:-1,IL : HOT ZONE HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5902.ts 
+#EXTINF:-1,IL : HOT 3 HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5901.ts 
+#EXTINF:-1,IL : Arutz HaYeladim Israel
+http://51.255.77.23:7777/live/hassan00/hassan123456/5917.ts 
+#EXTINF:-1,IL : Channel 20
+http://51.255.77.23:7777/live/hassan00/hassan123456/5913.ts 
+#EXTINF:-1,IL : Ch 33
+http://51.255.77.23:7777/live/hassan00/hassan123456/12214.ts 
+#EXTINF:-1,IL : HOT AMC
+http://51.255.77.23:7777/live/hassan00/hassan123456/12211.ts 
+#EXTINF:-1,IL : HOT CHANNEL 8
+http://51.255.77.23:7777/live/hassan00/hassan123456/12210.ts 
+#EXTINF:-1,IL : HOT COMEDY CENTRAL
+http://51.255.77.23:7777/live/hassan00/hassan123456/12209.ts 
+#EXTINF:-1,IL : HOT ENTERTAIMENT
+http://51.255.77.23:7777/live/hassan00/hassan123456/12208.ts 
+#EXTINF:-1,IL : HOT FOOD CHANNEL
+http://51.255.77.23:7777/live/hassan00/hassan123456/12207.ts 
+#EXTINF:-1,IL : HOT HOP
+http://51.255.77.23:7777/live/hassan00/hassan123456/12205.ts 
+#EXTINF:-1,IL : HOT JUNIOR
+http://51.255.77.23:7777/live/hassan00/hassan123456/12204.ts 
+#EXTINF:-1,IL : HOT LULI
+http://51.255.77.23:7777/live/hassan00/hassan123456/12203.ts 
+#EXTINF:-1,IL : HOT MOVIES
+http://51.255.77.23:7777/live/hassan00/hassan123456/12202.ts 
+#EXTINF:-1,IL : HOT PRIME
+http://51.255.77.23:7777/live/hassan00/hassan123456/12200.ts 
+#EXTINF:-1,IL : ISRAEL CHANNEL 10
+http://51.255.77.23:7777/live/hassan00/hassan123456/12198.ts 
+#EXTINF:-1,IL : ISRAEL CHANNEL 2
+http://51.255.77.23:7777/live/hassan00/hassan123456/12197.ts 
+#EXTINF:-1,IL : ISRAEL CHANNEL 2 NEWS
+http://51.255.77.23:7777/live/hassan00/hassan123456/12195.ts 
+#EXTINF:-1,IL : ISRAEL CHANNEL 20
+http://51.255.77.23:7777/live/hassan00/hassan123456/12196.ts 
+#EXTINF:-1,IL : Kan 11
+http://51.255.77.23:7777/live/hassan00/hassan123456/12212.ts 
+#EXTINF:-1,IL : Knesset Channe l
+http://51.255.77.23:7777/live/hassan00/hassan123456/12213.ts 
+#EXTINF:-1,IL : YES  VIVA
+http://51.255.77.23:7777/live/hassan00/hassan123456/12156.ts 
+#EXTINF:-1,IL : YES  VIVA PLUS
+http://51.255.77.23:7777/live/hassan00/hassan123456/12155.ts 
+#EXTINF:-1,IL : YES  WIZ
+http://51.255.77.23:7777/live/hassan00/hassan123456/12154.ts 
+#EXTINF:-1,IL : YES BIGBROTHER
+http://51.255.77.23:7777/live/hassan00/hassan123456/12194.ts 
+#EXTINF:-1,IL : YES CBS
+http://51.255.77.23:7777/live/hassan00/hassan123456/12193.ts 
+#EXTINF:-1,IL : YES DISCOVERY
+http://51.255.77.23:7777/live/hassan00/hassan123456/12191.ts 
+#EXTINF:-1,IL : YES DISNEY
+http://51.255.77.23:7777/live/hassan00/hassan123456/12190.ts 
+#EXTINF:-1,IL : YES DISNEYJUNIOR
+http://51.255.77.23:7777/live/hassan00/hassan123456/12189.ts 
+#EXTINF:-1,IL : YES DOCU
+http://51.255.77.23:7777/live/hassan00/hassan123456/12188.ts 
+#EXTINF:-1,IL : YES EGOTOTAL
+http://51.255.77.23:7777/live/hassan00/hassan123456/12186.ts 
+#EXTINF:-1,IL : YES FOOD CHANNEL
+http://51.255.77.23:7777/live/hassan00/hassan123456/12185.ts 
+#EXTINF:-1,IL : YES FOXSPORT
+http://51.255.77.23:7777/live/hassan00/hassan123456/12184.ts 
+#EXTINF:-1,IL : YES GOOD LIFE
+http://51.255.77.23:7777/live/hassan00/hassan123456/12183.ts 
+#EXTINF:-1,IL : YES HEALTH CHANNEL
+http://51.255.77.23:7777/live/hassan00/hassan123456/12182.ts 
+#EXTINF:-1,IL : YES HISTORY
+http://51.255.77.23:7777/live/hassan00/hassan123456/12181.ts 
+#EXTINF:-1,IL : YES HOME PLUS
+http://51.255.77.23:7777/live/hassan00/hassan123456/12180.ts 
+#EXTINF:-1,IL : YES HOP
+http://51.255.77.23:7777/live/hassan00/hassan123456/12179.ts 
+#EXTINF:-1,IL : YES HOPCHILDHOOD
+http://51.255.77.23:7777/live/hassan00/hassan123456/12178.ts 
+#EXTINF:-1,IL : YES ILAND
+http://51.255.77.23:7777/live/hassan00/hassan123456/12177.ts 
+#EXTINF:-1,IL : YES ISRAELI CINEMA
+http://51.255.77.23:7777/live/hassan00/hassan123456/12176.ts 
+#EXTINF:-1,IL : YES JUNIOR
+http://51.255.77.23:7777/live/hassan00/hassan123456/12175.ts 
+#EXTINF:-1,IL : YES KIDS
+http://51.255.77.23:7777/live/hassan00/hassan123456/12174.ts 
+#EXTINF:-1,IL : YES LIFETIME
+http://51.255.77.23:7777/live/hassan00/hassan123456/12173.ts 
+#EXTINF:-1,IL : YES LOGI
+http://51.255.77.23:7777/live/hassan00/hassan123456/12172.ts 
+#EXTINF:-1,IL : YES MIKAN
+http://51.255.77.23:7777/live/hassan00/hassan123456/12171.ts 
+#EXTINF:-1,IL : YES MTVMUSIC
+http://51.255.77.23:7777/live/hassan00/hassan123456/12170.ts 
+#EXTINF:-1,IL : YES MUSIC24
+http://51.255.77.23:7777/live/hassan00/hassan123456/12169.ts 
+#EXTINF:-1,IL : YES NATIONAL GEO GRAPHIC
+http://51.255.77.23:7777/live/hassan00/hassan123456/12168.ts 
+#EXTINF:-1,IL : YES NGWILD
+http://51.255.77.23:7777/live/hassan00/hassan123456/12167.ts 
+#EXTINF:-1,IL : YES NICKELODEON
+http://51.255.77.23:7777/live/hassan00/hassan123456/12166.ts 
+#EXTINF:-1,IL : YES NICKJR
+http://51.255.77.23:7777/live/hassan00/hassan123456/12165.ts 
+#EXTINF:-1,IL : YES OH
+http://51.255.77.23:7777/live/hassan00/hassan123456/12164.ts 
+#EXTINF:-1,IL : YES ONE
+http://51.255.77.23:7777/live/hassan00/hassan123456/12163.ts 
+#EXTINF:-1,IL : YES SPORT 3
+http://51.255.77.23:7777/live/hassan00/hassan123456/12162.ts 
+#EXTINF:-1,IL : YES SPORT 4
+http://51.255.77.23:7777/live/hassan00/hassan123456/12161.ts 
+#EXTINF:-1,IL : YES SPORT 5 GOLD
+http://51.255.77.23:7777/live/hassan00/hassan123456/12160.ts 
+#EXTINF:-1,IL : YES SPORT 5 PLUS
+http://51.255.77.23:7777/live/hassan00/hassan123456/12159.ts 
+#EXTINF:-1,IL : YES TRAVEL CHANNELL
+http://51.255.77.23:7777/live/hassan00/hassan123456/12157.ts 
+#EXTINF:-1,IL : Channel 10
+http://51.255.77.23:7777/live/hassan00/hassan123456/5915.ts 
+#EXTINF:-1,IL : Channel 9
+http://51.255.77.23:7777/live/hassan00/hassan123456/5912.ts 
+#EXTINF:-1,IL : Channel 2
+http://51.255.77.23:7777/live/hassan00/hassan123456/5914.ts 
+#EXTINF:-1,IL : Comedy Central HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5911.ts 
+#EXTINF:-1,IL : HOP IL
+http://51.255.77.23:7777/live/hassan00/hassan123456/5909.ts 
+#EXTINF:-1,IL : ONE HD
+http://51.255.77.23:7777/live/hassan00/hassan123456/5897.ts 
+#EXTINF:-1,IL : VIVA
+http://51.255.77.23:7777/live/hassan00/hassan123456/5894.ts 
+#EXTINF:-1,IL : Home Plus
+http://51.255.77.23:7777/live/hassan00/hassan123456/5910.ts 
+#EXTINF:-1,IL : Baby TV
+http://51.255.77.23:7777/live/hassan00/hassan123456/5916.ts 
+#EXTINF:-1,IL : Nick Jr
+http://51.255.77.23:7777/live/hassan00/hassan123456/5899.ts 
+#EXTINF:-1,IL : Nickelodeon
+http://51.255.77.23:7777/live/hassan00/hassan123456/5898.ts
