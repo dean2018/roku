@@ -176,7 +176,7 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1,tvg-name="shopping" tvg-logo="http://danilevy.co.il/wp-content/uploads/2016/07/%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.png" group-title="YES & HOT",21 Shopping Channel
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
-#EXTINF:-1,tvg-name="YES_Music_24" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Music_24.png",24
+#EXTINF:-1,tvg-name="YES_Music_24" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Music_24.png" group-title="YES & HOT",24
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3973.ts
 #EXTINF:-1,tvg-name="YES_Yam_Tihoni" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Yam_Tihoni.png" group-title="YES & HOT",25 MEDITERRANEAN
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3968.ts
