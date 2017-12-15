@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/89.png",BBC ONE
-http://149.202.66.203:8080/live/harold/harold/8504.ts
+http://www.bozhd.eu:8000/live/ upc82/utcyYYZPc0/4669.ts
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/90.png",BBC TWO
 http://live.tvplayer.com/bbctwo/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tvplayer.com/tvos/images/channels/110.png",BBC FOUR
