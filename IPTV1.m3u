@@ -238,3 +238,155 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 http://149.202.66.203:8080/live/harold/harold/8504.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",2
 http://89.38.98.85:8000/live/akram/akram/8587.ts
+#EXTINF:-1,IS:Channel1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9122.ts
+#EXTINF:-1,IS:Channel10
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9121.ts
+#EXTINF:-1,IS:Channel2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9120.ts
+#EXTINF:-1,IS:Channel2 News
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9119.ts
+#EXTINF:-1,IS:Channel20
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9118.ts
+#EXTINF:-1,IS:Channel9
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9117.ts
+#EXTINF:-1,IS:HOT Action
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9139.ts
+#EXTINF:-1,IS:HOT Amc
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9138.ts
+#EXTINF:-1,IS:HOT Bombay
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9137.ts
+#EXTINF:-1,IS:HOT Channel8
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9136.ts
+#EXTINF:-1,IS:HOT ComedyCentral
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9135.ts
+#EXTINF:-1,IS:HOT Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9134.ts
+#EXTINF:-1,IS:HOT Entertaiment
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9133.ts
+#EXTINF:-1,IS:HOT FoodChannel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9132.ts
+#EXTINF:-1,IS:HOT Fun
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9131.ts
+#EXTINF:-1,IS:HOT Gold
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9130.ts
+#EXTINF:-1,IS:HOT Hop
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9129.ts
+#EXTINF:-1,IS:HOT Junior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9128.ts
+#EXTINF:-1,IS:HOT Luli
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9127.ts
+#EXTINF:-1,IS:HOT Movies
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9126.ts
+#EXTINF:-1,IS:HOT Plus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9125.ts
+#EXTINF:-1,IS:HOT Prime
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9124.ts
+#EXTINF:-1,IS:HOT Zone
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9123.ts
+#EXTINF:-1,IS:HOT3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9140.ts
+#EXTINF:-1,IS:YES Action
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9187.ts
+#EXTINF:-1,IS:YES Arutzhayeladim
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9186.ts
+#EXTINF:-1,IS:YES Baby
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9185.ts
+#EXTINF:-1,IS:YES Bigbrother
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9184.ts
+#EXTINF:-1,IS:YES Cbs
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9183.ts
+#EXTINF:-1,IS:YES Comedy
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9182.ts
+#EXTINF:-1,IS:YES Discovery
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9181.ts
+#EXTINF:-1,IS:YES Disney
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9180.ts
+#EXTINF:-1,IS:YES DisneyJunior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9179.ts
+#EXTINF:-1,IS:YES Docu
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9178.ts
+#EXTINF:-1,IS:YES Drama
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9177.ts
+#EXTINF:-1,IS:YES Egototal
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9176.ts
+#EXTINF:-1,IS:YES Foodchannel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9175.ts
+#EXTINF:-1,IS:YES FoxSport
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9174.ts
+#EXTINF:-1,IS:YES GoodLife
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9173.ts
+#EXTINF:-1,IS:YES HealthChannel
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9172.ts
+#EXTINF:-1,IS:YES History
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9171.ts
+#EXTINF:-1,IS:YES Homeplus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9170.ts
+#EXTINF:-1,IS:YES Hop
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9169.ts
+#EXTINF:-1,IS:YES HopChildhood
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9168.ts
+#EXTINF:-1,IS:YES Iland
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9167.ts
+#EXTINF:-1,IS:YES IsraeliCinema
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9166.ts
+#EXTINF:-1,IS:YES Junior
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9165.ts
+#EXTINF:-1,IS:YES Kids
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9164.ts
+#EXTINF:-1,IS:YES LifeTime
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9163.ts
+#EXTINF:-1,IS:YES Logi
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9162.ts
+#EXTINF:-1,IS:YES Mikan
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9161.ts
+#EXTINF:-1,IS:YES MTV Music
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9160.ts
+#EXTINF:-1,IS:YES Music24
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9159.ts
+#EXTINF:-1,IS:YES Nat Geo
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9158.ts
+#EXTINF:-1,IS:YES Nat Geo Wild
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9157.ts
+#EXTINF:-1,IS:YES Nick Jr
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9156.ts
+#EXTINF:-1,IS:YES Oh
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9155.ts
+#EXTINF:-1,IS:YES One
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9154.ts
+#EXTINF:-1,IS:YES Sport 5gold
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9148.ts
+#EXTINF:-1,IS:YES Sport 5pluslive
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9147.ts
+#EXTINF:-1,IS:YES Sport1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9153.ts
+#EXTINF:-1,IS:YES Sport2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9152.ts
+#EXTINF:-1,IS:YES Sport3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9151.ts
+#EXTINF:-1,IS:YES Sport4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9150.ts
+#EXTINF:-1,IS:YES Sport5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9149.ts
+#EXTINF:-1,IS:YES TravelChannell
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9146.ts
+#EXTINF:-1,IS:YES Viv
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9145.ts
+#EXTINF:-1,IS:YES VivaPlus
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9144.ts
+#EXTINF:-1,IS:YES Wiz
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9143.ts
+#EXTINF:-1,IS:YES Yamtihoni
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9142.ts
+#EXTINF:-1,IS:YES Zoom
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9141.ts
+#EXTINF:-1,IS:YES1
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9192.ts
+#EXTINF:-1,IS:YES2
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9191.ts
+#EXTINF:-1,IS:YES3
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9190.ts
+#EXTINF:-1,IS:YES4
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9189.ts
+#EXTINF:-1,IS:YES5
+http://echoopro.com:2086/live/showsat_xqPMQc/deS4Tem6/9188.ts
