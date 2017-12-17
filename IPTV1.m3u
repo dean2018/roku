@@ -20,7 +20,17 @@ http://192.99.18.85:1935/live/channel11/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC)
 http://82.80.192.11/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2063685957_b1928000.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
-http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st=1513534115~exp=1513535015~acl=/*~hmac=39957f7135d83497107dbcb43f5ee2d2647ec6addfef736a58e7d1df5e4a635d
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/20171214T070253/index_850/00011/index_850432_00367.ts
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+https://zagent55.h-cdn.com/mako_co_il/mako_live/keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/20171214T070253/index_850/00015/index_850432_01006.ts?hola&player=html5&tech=html5&method=hola_adaptive&cdn=single&live&rate&index=31006&dur=0&id=1040600&stack=hap_hls&playlist=https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8&manifest=https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st%3D1513534115%7Eexp%3D1513535015%7Eacl%3D%2F*%7Ehmac%3D39957f7135d83497107dbcb43f5ee2d2647ec6addfef736a58e7d1df5e4a635d
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+https://zagent539.h-cdn.com/mako_co_il/mako_live/keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/20171214T070253/index_850/00015/index_850432_01006.ts?hola&player=html5&tech=html5&method=hola_adaptive&cdn=single&live&rate&index=31006&dur=0&id=1040600&stack=hap_hls&playlist=https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8&manifest=https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st%3D1513534115%7Eexp%3D1513535015%7Eacl%3D%2F*%7Ehmac%3D39957f7135d83497107dbcb43f5ee2d2647ec6addfef736a58e7d1df5e4a635d
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/20171214T070253/index_850/00015/index_850432_01044.ts
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+https://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
 http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8 
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
