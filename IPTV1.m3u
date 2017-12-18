@@ -228,6 +228,6 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",1
-http://149.202.66.203:8080/live/harold/harold/8504.ts
+https://h5p2p.peer-stream.com/chunks/bbc_hd.webm.mpd?cp=98795
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",2
-https://live.tvplayer.com/bbctwo/3/d9d8e25c4e9922ab083f0af28fea41b2_3.ts
+https://h5p2p.peer-stream.com/chunks/bbc_sd.webm.mpd?cp=98795
