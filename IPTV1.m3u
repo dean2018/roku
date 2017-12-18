@@ -227,7 +227,7 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",1
-https://h5p2p.peer-stream.com/chunks/bbc_hd.webm.mpd?cp=98795
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",2
-https://h5p2p.peer-stream.com/chunks/bbc_sd.webm.mpd?cp=98795
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="XXX",Blue Hustler
+http://212.47.244.173:8081/live/bluehustler/chunks.m3u8?nimblesessionid=12065651&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNyAzOjI5OjUxIFBNJmhhc2hfdmFsdWU9R2hYOXB0a2hleGZSbW1JRmtRSDRyQT09JnZhbGlkbWludXRlcz0zMA==&time=1513611079852
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="XXX",REDLIGHT
+http://212.47.244.173:8081/live/redlighthd/chunks.m3u8?nimblesessionid=12066081&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNyAzOjM4OjQxIFBNJmhhc2hfdmFsdWU9M1Eya0MrTWRhWXlpelIxbW56bUY3Zz09JnZhbGlkbWludXRlcz0zMA==
