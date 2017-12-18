@@ -1,3 +1,233 @@
 #EXTM3U
-#EXTINF:-1,IL : YES OH HD
-http://195.154.154.185:5890/live/junior/junior1/4178.ts
+#EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Israel",9
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream3.m3u8
+#EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Israel",9
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream2.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC) HD
+http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC) HD
+http://62.90.90.52/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC) HD
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC) HD
+http://82.80.192.28/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC) HD
+http://62.90.90.37/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC)
+http://62.90.90.34/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w1733629701_b1928000.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC)
+http://82.80.192.11/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2063685957_b1928000.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
+http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512035/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8 
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet HD
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser (TV)
+http://192.99.18.85:1935/live/channel10/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser HD
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser HD
+http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser HD
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:appmob_,400,500,800,/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,2400,/playlist.m3u8
+logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Israel",Israeli News Company HD
+http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Israel",Israeli News Company
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile1.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Israel",Israeli News Company
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Israel",Israeli News Company
+http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2296_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Israel",20 HD
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Israel",20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Israel",21 Shopping Channel HD
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="Israel",33 Makan (IPBC) HD
+http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="Israel",33 Makan (IPBC) HD
+http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",66 Kabbalah La'am
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png" group-title="Israel",96 Meir TV
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png" group-title="Israel",96 Meir TV
+http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",97 Hidabrut HD
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",97 Hidabrut HD
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",99 Knesset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Israel",Walla News HD
+http://62.90.90.56/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Israel",Walla News HD
+http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149458138/34369_430428015571_101544000571_5843020_7251630_n_400x400.jpg" group-title="Israel",Ynet HD
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",Keshet (The Best) HD
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",Keshet (The Best)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_1400_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",Keshet (The Best)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_5000_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",Keshet (The Best)
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_850_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="Israel",yes 1.
+http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes4hd.png" group-title="Israel",yes 4.
+http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/yesoh.png" group-title="Israel",YES OH.
+http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2017/05/Discovery-Channel-Live-HD.png" group-title="Israel",Discovery CHANNEL
+http://192.99.18.85:1935/live/discovery/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg" group-title="Israel",HISTORY
+http://192.99.18.85:1935/live/history/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/2000px-ORFeins.svg.png" group-title="Austria",ORF eins
+http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/2000px-ORF2_logo_n.svg.png" group-title="Austria",ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/1200px-ORF_III_Logo_Monochrom.svg.png" group-title="Austria",ORF III
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="YES & HOT",yes 1.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7172.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png" group-title="YES & HOT",yes 2.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7173.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_3_HD.png" group-title="YES & HOT",yes 3.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7174.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_4_HD.png" group-title="YES & HOT",yes 4.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7175.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_5_HD.png" group-title="YES & HOT",yes 5.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7176.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Israeli_Cinema.png" group-title="YES & HOT",yes. Israeli Theatre
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3978.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Docu_HD.png" group-title="YES & HOT",yes Docu.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2950.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_3_HD.png" group-title="YES & HOT",HOT 3
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2954.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_HBO.png" group-title="YES & HOT",HOT HBO
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7220.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Zone_HD.png" group-title="YES & HOT",HOT Zone
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7188.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Comedy_Central_HD.png" group-title="YES & HOT",HOT Comedy Central
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7219.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Entertainment.png" group-title="YES & HOT",HOT Israeli Entertainment
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2959.ts
+#EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="YES & HOT",9
+http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream2.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/11.png" group-title="YES & HOT",11 KAN
+http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/12hd.png" group-title="YES & HOT",12 KESHET
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7218.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/13HD.png" group-title="YES & HOT",13 RESHET
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/14HD.png" group-title="YES & HOT",14 ESER
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7222.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Comedy_HD.png" group-title="YES & HOT",yes COMEDY.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7183.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Drama_HD.png" group-title="YES & HOT",yes DRAMA.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7182.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Action_HD.png" group-title="YES & HOT",yes ACTION.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7181.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_OH_HD.png" group-title="YES & HOT",yes OH.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2947.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Gold_HD.png" group-title="YES & HOT",HOT Gold
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7189.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Action_HD.png" group-title="YES & HOT",HOT Action
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7185.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Fun_HD.png" group-title="YES & HOT",HOT Fun
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7187.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Drama_HD.png" group-title="YES & HOT",HOT Drama
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7186.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/keshet%20vod%20tv%20live.png" group-title="YES & HOT",KESHET - The Best
+http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="YES & HOT",20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://danilevy.co.il/wp-content/uploads/2016/07/%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.png" group-title="YES & HOT",21 Shopping Channel
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Music_24.png" group-title="YES & HOT",24
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3973.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Yam_Tihoni.png" group-title="YES & HOT",25 MEDITERRANEAN
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3968.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_TRAVEL_CHANNELL.png" group-title="YES & HOT",TRAVEL CHANNEL
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/5314.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Food_Channel.png" group-title="YES & HOT",FOOD CHANNEL
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3987.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Health_Channel.png" group-title="YES & HOT",HEALTH
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3985.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Good_Life.png" group-title="YES & HOT",GOOD LIFE
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3986.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Home_Plus.png" group-title="YES & HOT",HOME PLUS
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3983.ts
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="YES & HOT",33 MAKAN (IPBC)
+http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1713238421/logo_sq_400x400.jpg" group-title="YES & HOT",VIVA
+http://192.99.18.85:1935/live/viva/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://img.wcdn.co.il/f_auto,w_1200,t_54/ar_1.91,c_fill,g_auto/l_black_line,g_south,w_1.0,h_0.1,fl_relative,o_90/g_south_east,x_15,y_12,l_logo2,w_250/1/1/9/2/1192806-46.jpg" group-title="YES & HOT",VIVA PLUS
+http://192.99.18.85:1935/live/vivaplus/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/yes_E.png" group-title="YES & HOT",E!
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7208.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_discover_sc.png" group-title="YES & HOT",DISCOVERY SCIENCE
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7170.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Discovery_HD_(1080).png" group-title="YES & HOT",DISCOVERY CHANNEL
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7197.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_NAT_GEO_1080.png" group-title="YES & HOT",NATIONAL GEOGRAPHIC CHANNEL
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7184.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_NG_Wild.png" group-title="YES & HOT",NAT GEO WILD
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7196.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_History_HD.png" group-title="YES & HOT",HISTORY
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3984.ts
+#EXTINF:-1  tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_animal_planet.png"  group-title="YES & HOT",Animal planet
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7190.ts
+iptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7190.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_ego_Total.png" group-title="YES & HOT",EGO TOTAL
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6757.ts
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YES & HOT",66 Kabbalah La'am
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Dance.png" group-title="YES & HOT",MTV DANCE
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7207.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_MTV_MUSIC.png" group-title="YES & HOT",MTV MUSIC
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/5316.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Hits.png" group-title="YES & HOT",MTV HITS
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7206.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_stars.png" group-title="YES & HOT",yes Starz
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7159.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png" group-title="YES & HOT",96 MEIR TV
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YES & HOT",99 KNESSET
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png" group-title="YES & HOT",CNN International
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",1
+http://149.202.66.203:8080/live/harold/harold/8504.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",2
+http://89.38.98.85:8000/live/akram/akram/8587.ts
