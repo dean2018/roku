@@ -229,13 +229,3 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Blue-Hustler-TV.png" group-title="XXX",blue HUSTLER
-http://212.47.244.173:8081/live/bluehustler/chunks.m3u8?nimblesessionid=12065651&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNyAzOjI5OjUxIFBNJmhhc2hfdmFsdWU9R2hYOXB0a2hleGZSbW1JRmtRSDRyQT09JnZhbGlkbWludXRlcz0zMA==&time=1513611079852
-#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Redlight-HD.jpg" group-title="XXX",REDLIGHT
-http://212.47.244.173:8081/live/redlighthd/chunks.m3u8?nimblesessionid=12066081&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNyAzOjM4OjQxIFBNJmhhc2hfdmFsdWU9M1Eya0MrTWRhWXlpelIxbW56bUY3Zz09JnZhbGlkbWludXRlcz0zMA==
-#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Brazzers-TV-Europe-18.png" group-title="XXX",BRAZZERS TV
-http://212.47.244.173:8081/live/brazzers_eu/chunks.m3u8?nimblesessionid=12066542&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNyAzOjQ1OjI1IFBNJmhhc2hfdmFsdWU9Q0oxZ0FIWUxLOXJtN3ZFckduVGJ5Zz09JnZhbGlkbWludXRlcz0zMA==
-#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Redlight-HD.jpg" group-title="XXX",HUSTLER
-http://212.47.244.173:8081/live/hustlerhd/chunks.m3u8?nimblesessionid=12068411&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTgvMjAxNyA0OjMwOjMwIFBNJmhhc2hfdmFsdWU9a2FleW85NUE0WGpZbEtrTThkMFV3UT09JnZhbGlkbWludXRlcz0zMA==
-#EXTINF:-1 tvg-logo="http://www.adulttvlive.net/wp-content/uploads/2017/02/Sexy-Hot-TV.png" group-title="XXX",sexyHOT
-http://playlist.prg09.v-ip-tv.com/atip/8a399fe04a5930e23216d884ac9bfd92/1513615121705/channel-54/0/512.m3u8
