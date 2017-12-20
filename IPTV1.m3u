@@ -229,5 +229,5 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:0, A&E cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/OOENI42.jpg stream=https://videoserver1.org/live/UZcrAv98ZxPp9AeahJ19vA/1513810312/ce425ca32dea0f37b22717ae989bcffb.m3u8
+#EXTINF:0 tvg-logo="http://i.imgur.com/OOENI42.jpg" group-title="US",A&E
+https://videoserver1.org/live/UZcrAv98ZxPp9AeahJ19vA/1513810312/ce425ca32dea0f37b22717ae989bcffb.m3u8
