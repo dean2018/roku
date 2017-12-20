@@ -229,3 +229,187 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="USA",A&E
+https://videoserver2.org/hls/c0371e35a2b3244f5edda7947172d954-4615.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="USA",HISTORY
+https://videoserver2.org/hls/c0371e35a2b3244f5edda7947172d954-4616.ts
+#EXTINF:5.120,
+https://videoserver2.org/hls/a0f8ddb8c8251a68f136648b32c0f62d-3154.ts
+#EXTINF:9.480,
+https://videoserver2.org/hls/a0f8ddb8c8251a68f136648b32c0f62d-3155.ts
+#EXTINF:-1,XXX Adult
+http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/1506693147727/channel-80/1/512.m3u8
+#EXTINF:-1,Dollhouse Back
+http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84%2F1506693452661/channel-71/1/515.m3u8
+#EXTINF:-1,Bla
+http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
+#EXTINF:-1, SUPER ONE HD
+http://5.149.240.17:4022/udp/239.123.13.128:57128
+#EXTINF:-1,xX: Hot Club 1 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1029.ts
+#EXTINF:-1,xX: Hot Club 2 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1027.ts
+#EXTINF:-1,xX: Hot Club 3 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1026.ts
+#EXTINF:-1,xX: Hot Club 4 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1025.ts
+#EXTINF:-1,xx: Hot Club 5 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1024.ts
+#EXTINF:-1,xx: Hot Club 6 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1023.ts
+#EXTINF:-1,Xx: Hot Club 7 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1022.ts
+#EXTINF:-1,xx: Hot Club 8 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1021.ts
+#EXTINF:-1,Xx: Hot Club 9 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1020.ts
+#EXTINF:-1,xX: Hot Club 10 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1028.ts
+#EXTINF:-1,Private TV
+http://tvservice.webhop.me:80/live/guarino/guarino/2637.ts
+#EXTINF:-1,Moms Teach Sex
+http://tvservice.webhop.me:80/live/guarino/guarino/2904.ts
+#EXTINF:-1,Hustler HD
+http://tvservice.webhop.me:80/live/guarino/guarino/3199.ts
+#EXTINF:-1,Redligth HD
+http://tvservice.webhop.me:80/live/guarino/guarino/3200.ts
+#EXTINF:-1,Playboy TV
+http://tvservice.webhop.me:80/live/guarino/guarino/3788.ts
+#EXTINF:-1,Hot Club 1 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1000.ts
+#EXTINF:-1,Hot Club 2 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1020.ts
+#EXTINF:-1,Hot Club 3 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1021.ts
+#EXTINF:-1,Hot Club 4 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1022.ts
+#EXTINF:-1,Hot Club 5 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1120.ts
+#EXTINF:-1,Hot Club 6 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1121.ts
+#EXTINF:-1,Hot Club 7 HD
+http://tvservice.webhop.me:80/live/guarino/guarino/1122.ts 
+#EXTINF:-1,passion x
+http://friendiptv.mine.nu:8000/live/mirko/mirko/177.ts
+#EXTINF:-1,HOT
+http://friendiptv.mine.nu:8000/live/mirko/mirko/173.ts 
+#EXTINF:-1,VENUS 18+
+http://ptbrvirtual.no-ip.net:8000/live/amoura/amoura/173.m3u8
+#EXTINF:-1,PRIVATE 18+
+http://ptbrvirtual.no-ip.net:8000/live/amoura/amoura/245.m3u8
+#EXTINF:-1,HOT 18+
+http://ptbrvirtual.no-ip.net:8000/live/amoura/amoura/159.m3u8
+#EXTINF:-1,PLAYBOY 18+
+http://ptbrvirtual.no-ip.net:8000/live/amoura/amoura/103.m3u8
+#EXTINF:-1,MT-Adult 9
+http://213.136.90.30:8000/live/christop/christop/9331.ts
+#EXTINF:-1,MT-Adult 8
+http://213.136.90.30:8000/live/christop/christop/9332.ts
+#EXTINF:-1,MT-Adult 7
+http://213.136.90.30:8000/live/christop/christop/9333.ts
+#EXTINF:-1,MT-Adult 6
+http://213.136.90.30:8000/live/christop/christop/9334.ts
+#EXTINF:-1,MT-Adult 5
+http://213.136.90.30:8000/live/christop/christop/9335.ts
+#EXTINF:-1,MT-Adult 4
+http://213.136.90.30:8000/live/christop/christop/9336.ts
+#EXTINF:-1,MT-Adult 3
+http://213.136.90.30:8000/live/christop/christop/9337.ts
+#EXTINF:-1,MT-Adult 2
+http://213.136.90.30:8000/live/christop/christop/9338.ts
+#EXTINF:-1,MT-Adult 1
+http://213.136.90.30:8000/live/christop/christop/9339.ts
+#EXTINF:-1,18 :HOT CLUB 2 HD
+http://213.136.90.30:8000/live/christop/christop/6934.ts
+#EXTINF:-1,18 :HOT CLUB 3 HD
+http://213.136.90.30:8000/live/christop/christop/6933.ts
+#EXTINF:-1,18 :HOT CLUB 4 HD
+http://213.136.90.30:8000/live/christop/christop/6932.ts
+#EXTINF:-1,18 :HOT CLUB 5 HD
+http://213.136.90.30:8000/live/christop/christop/6931.ts
+#EXTINF:-1,18 :HOT CLUB 6 HD
+http://213.136.90.30:8000/live/christop/christop/6930.ts
+#EXTINF:-1,18 :HOT CLUB 7 HD
+http://213.136.90.30:8000/live/christop/christop/6929.ts
+#EXTINF:-1,x: Balkan Erotic
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/2350.ts
+#EXTINF:-1,x: VENUS (POR)
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/1242.ts
+#EXTINF:-1,x: Hot (POR)
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/1255.ts
+#EXTINF:-1,x: Playboy TV (POR)
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/399.ts
+#EXTINF:-1,x: PINK Erotic 1
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/519.ts
+#EXTINF:-1,x: PINK Erotic 2
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/520.ts
+#EXTINF:-1,x: PINK Erotic 3
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/521.ts
+#EXTINF:-1,x: PINK Erotic 4
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/522.ts
+#EXTINF:-1,HOT CLUB 1 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/244.ts
+#EXTINF:-1,HOT CLUB 2 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/243.ts
+#EXTINF:-1,HOT CLUB 3 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/9.ts
+#EXTINF:-1,HOT CLUB 4 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/8.ts
+#EXTINF:-1,HOT CLUB 5 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/7.ts
+#EXTINF:-1,HOT CLUB 6 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/321.ts
+#EXTINF:-1,HOT CLUB 7 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/524.ts
+#EXTINF:-1,HOT CLUB 8 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/525.ts
+#EXTINF:-1,HOT CLUB 9 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/324.ts
+#EXTINF:-1,HOT CLUB 10 XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/325.ts
+#EXTINF:-1,xX: DUSK! (NL)
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/982.ts
+#EXTINF:-1,xX: Meiden van Holland Hard (NL)
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/989.ts
+#EXTINF:-1,xX: HUSTLER HD
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/1606.ts
+#EXTINF:-1,xX: Dorcel
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/1735.ts
+#EXTINF:-1,xX: Redlight HD
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/983.ts
+#EXTINF:-1,xX: BRAZZERS TV XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/991.ts
+#EXTINF:-1,xX: PRIVATE XX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/987.ts
+#EXTINF:-1,xX: PassionXX
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/990.ts
+#EXTINF:-1,xX: XX mixed
+http://tv.supertv4u.eu:8000/live/bora/sSbXC59HsO/1578.ts
+#EXTINF:-1,SCT HQ
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1096.ts
+#EXTINF:-1,SCT 7
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1093.ts
+#EXTINF:-1,SCT 6
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1094.ts
+#EXTINF:-1,REDLIGHT
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1095.ts
+#EXTINF:-1,Esotica xxx
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1097.ts
+#EXTINF:-1,LIVE POR_1
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1005.ts
+#EXTINF:-1,LIVE POR_06
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1010.ts
+#EXTINF:-1,LIVE POR_05
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1009.ts
+#EXTINF:-1,LIVE POR_04
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1008.ts
+#EXTINF:-1,LIVE POR_03
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1007.ts
+#EXTINF:-1,LIVE POR_02
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/1006.ts
+#EXTINF:-1,ADULTI LIVE HD 1
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/658.ts
+#EXTINF:-1,ADULTI LIVE HD 2
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/659.ts
+#EXTINF:-1,ADULTI LIVE HD 5
+http://xs.best-tv.us:8000/live/Gianni1/Gianni1/662.ts
