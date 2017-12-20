@@ -222,7 +222,6 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7206.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7159.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png" group-title="YES & HOT",96 MEIR TV
 http://82.80.198.100:1935/live/live1/playlist.m3u8
-https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YES & HOT",99 KNESSET
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png" group-title="YES & HOT",CNN International
