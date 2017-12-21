@@ -280,3 +280,5 @@ https://videoserver1.org/live/v4xIeytjvvKLC2Etfk7qdQ/1513808152/296e56c668bc8bd6
 https://videoserver2.org/live/8TMMVX7Yt7sOo8MCyd9sCw/1513809436/c0371e35a2b3244f5edda7947172d954.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/06/watch-adult-swim-free-1024x341.jpg" group-title="USA",adult swim
 https://videoserver2.org/live/J2YEAY0bkseZP7EjH9Zgew/1513810115/539125fdf85ba9fc38e2550c3c838e4d.m3u8
+#EXTINF:-1,BUT GO
+http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
