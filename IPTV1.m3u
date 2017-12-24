@@ -292,3 +292,11 @@ http://78.111.176.132:8081
 http://78.111.176.132:8082
 #EXTINF:-1,Reality Kings
 http://188.122.70.241:8000/play/a007
+#EXTINF:-1,BBC ONE HD
+http://asoiptv.com:9000/live/ch/ch/33886.ts
+#EXTINF:-1,BBC Two HD
+http://asoiptv.com:9000/live/ch/ch/33902.ts
+#EXTINF:-1,ITV HD
+http://asoiptv.com:9000/live/ch/ch/33861.ts
+#EXTINF:-1,Channel 4 HD
+http://asoiptv.com:9000/live/ch/ch/33900.ts
