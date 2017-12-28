@@ -234,9 +234,9 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 https://e2.tvmucho.com/abr/ch4-hd/abr/ch4-hd_720p/chunks.m3u8?nimblesessionid=1923039&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODoyMzo1MyBQTSZoYXNoX3ZhbHVlPTBBMC9VMitoVlBVd2ZZaWZaTi9VeWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
 #EXTINF:-1 tvg-logo="http://images.electricpig.co.uk/wp-content/uploads/2011/02/4hd-logo-500px_offw.jpg" group-title="UK",4
 https://e2.tvmucho.com/abr/ch4-hd/abr/ch4-hd_720p/l_548608771_137145.ts?nimblesessionid=1923508&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NDo0OCBQTSZoYXNoX3ZhbHVlPTJRRDZGa1BQdXlwQWl4eTh0SmlpaVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
-EXTINF:-1 tvg-logo="" group-title="UK",BBC ONE
+EXTINF:-1 tvg-logo="https://regmedia.co.uk/2010/11/03/bbc_1.jpg" group-title="UK",BBC ONE
 https://e2.tvmucho.com/abr/bbc-one-hd/abr/bbc-one-hd_720p/chunks.m3u8?nimblesessionid=1923085&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODoyOToxOSBQTSZoYXNoX3ZhbHVlPXJNUFRWWEpySHMzMnUxK3N4U3BKc1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
-EXTINF:-1 tvg-logo="" group-title="UK",BBC ONE
+EXTINF:-1 tvg-logo="https://regmedia.co.uk/2010/11/03/bbc_1.jpg" group-title="UK",BBC ONE
 https://e1.tvmucho.com/abr/bbc-one-hd/abr/bbc-one-hd_720p/l_548504467_137112.ts?nimblesessionid=1921092&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MzoxOSBQTSZoYXNoX3ZhbHVlPW9JWDIrY0FtRytLN2xSZXY4TFpoMlE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
 EXTINF:-1 tvg-logo="" group-title="UK",BBC TWO
 https://e2.tvmucho.com/abr/bbc-two-hd/abr/bbc-two-hd_720p/chunks.m3u8?nimblesessionid=1923096&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMDoxOSBQTSZoYXNoX3ZhbHVlPTY2VU9CdTBDZW1xK1QrV3ExV0ZPRUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
@@ -351,57 +351,5 @@ EXTINF:-1 tvg-logo="" group-title="UK",Bloomberg
 https://e2.tvmucho.com/abr/bloomberg/abr/bloomberg_576p/chunks.m3u8?nimblesessionid=1923477&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MjozMCBQTSZoYXNoX3ZhbHVlPTBPczBIVVlVcytHSDQrRG5NNUk2NXc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMw==
 EXTINF:-1 tvg-logo="" group-title="UK",Bloomberg
 https://e2.tvmucho.com/abr/bloomberg/abr/bloomberg_576p/l_481233120_120299.ts?nimblesessionid=1923477&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MjozMCBQTSZoYXNoX3ZhbHVlPTBPczBIVVlVcytHSDQrRG5NNUk2NXc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMw==
-#EXTINF:-1 tvg-logo="https://static.next-episode.net/tv-shows-images/huge/american-dad.jpg" group-title="24/7",American Dad
-https://videoserver1.org/live/5Ua0te8Cf9wTC19XRgofVg/1513881505/523af537946b79c4f8369ed39ba78605.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="24/7",American Horror Story
-https://videoserver1.org/live/bZfM6s6NJQKye7aYMW1tFA/1513881131/9473408d814743efc7c203eb79782f8b.m3u8
-#EXTINF:-1 tvg-logo="http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg" group-title="24/7",Animated Movies
-https://videoserver1.org/live/8hBYrewsnwFYhz9qwEnORw/1513881507/7e18e745bf13ed4e73c5e612599b4cf5.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/scratchpad/images/7/71/Bob-s-Burgers-bobs-burgers-18293111-1280-1024.jpg/revision/latest?cb=20130829022151" group-title="24/7",Bob's Burgers
-https://videoserver2.org/live/59BHhIi-uv2b2Ee3bApLtQ/1513881519/21ad0bd836b90d08f4cf640b4c298e7c.m3u8
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/cb553d91-6ece-5030-49ba-13e0fe665eee-ClassicToons_featured.jpg" group-title="24/7",Classic Toons
-https://videoserver2.org/live/iIqiJBMWfAwNqYObYpJemw/1513880880/d91af6958918af87d6a057c1cdf5b225.m3u8
-#EXTINF:-1 tvg-logo="http://is2.mzstatic.com/image/thumb/Video19/v4/02/3b/19/023b19f6-7b58-847b-a465-670702e496a4/source/1200x630bb.jpg" group-title="24/7",Family Guy
-https://videoserver2.org/live/FZoo3jmlJBV29DJsbMx7Fw/1514141631/3d4044d65abdda407a92991f1300ec97.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/62333ed8-6763-4b08-866f-eca5b4eb6dae/264a1391-8292-413e-82a1-c0e7e47bc52a.jpg" group-title="24/7",Friends
-https://videoserver1.org/live/HU0UWlxrlD4vNvfETx3KEA/1513882197/28f20a02bf8a021fab4fcec48afb584e.m3u8
-#EXTINF:-1 tvg-logo="https://ibhuluimcom-a.akamaihd.net/ib.huluim.com/show/29524?region=US&size=952x536" group-title="24/7",Golden Girls
-https://videoserver2.org/live/k-3LxIau06mN5-1twMwAbQ/1513875244/591dbd3b809a29a2eac0e7fd36317d85.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Married_with_Children.jpg" group-title="24/7",Married... With Children
-https://videoserver1.org/live/xHzNMpCP68L2HugwAOPh6w/1513881366/668ada832799cc84747f015346e54eb0.m3u8
-#EXTINF:-1 tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/the-simpsons_29/keyart1.jpg?fit=inside%7C1280:720" group-title="24/7",The Simpsons 1
-https://videoserver2.org/live/BHIs4giPVYy3bP_7soABPg/1513882074/43b4dbed3e7f7a4ecba655f3dedcfd21.m3u8
-#EXTINF:-1 tvg-logo="http://i.telegraph.co.uk/multimedia/archive/03136/Simpsons-Family_3136665b.jpg" group-title="24/7",The Simpsons 2
-https://videoserver1.org/live/FpM8HxTgctWFrs9kEcIcng/1513882073/3691308f2a4c2f6983f2880d32e29c84.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Nickelodeon_SpongeBob_SquarePants_Characters_Cast.png" group-title="24/7",SpongeBob SquarePants
-https://videoserver1.org/live/24zU_6pvdtCfFY19la_Z-w/1513881781/2f2c4b3c9681d732d678ae4094241250.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/The_Big_Bang_Theory_%28Official_Title_Card%29.png" group-title="24/7",The Big Bang Theory
-https://videoserver1.org/live/dkXJpZdVqnXtVCdPWagieg/1513881236/d3517d7d92455b3cf3eb3e774acb4406.m3u8
-#EXTINF:-1 tvg-logo="http://celebmix.com/wp-content/uploads/2017/02/that-70s-show-cast-where-are-they-now-01.jpg" group-title="24/7",That '70s Show
-https://videoserver2.org/live/8KFV_941bqzaFr6A44mpvA/1513880941/10174e112d64ae5e09f8f955865a5993.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Doctor_Who_-_Current_Titlecard.png" group-title="24/7",Doctor Who
-https://videoserver1.org/live/3xoqdVTvLNV3jS-VUpO9ag/1513881538/c0e67c407905103dbce3984c756f3f21.m3u8
-#EXTINF:-1 tvg-logo="https://thestanduplist.files.wordpress.com/2012/10/comedy_time_logo1.jpeg" group-title="24/7",Comedy Movies
-https://videoserver2.org/live/N2d4aKS5MAV9P83F4F_Xag/1513881872/6fd04bc5b53697040f6f43a3c96d7658.m3u8
-#EXTINF:-1 tvg-logo="http://www.cc.com//sitewide/images/default_image.jpg" group-title="USA",Comedy Central
-https://videoserver1.org/live/fiVklnMKdGQvqEEpUUxYsA/1513882148/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8
-#EXTINF:-1 tvg-logo="http://americablejapan.net/images/station_logos/tlc.jpeg" group-title="USA",TLC
-https://videoserver1.org/live/QZPNYGRNCJIVjAMwom4N3g/1513880836/1e845dcb477e13f00b5b202a3dbffbde.m3u8
-#EXTINF:-1 tvg-logo="https://freeform.azureedge.net/showms/3.8.10.build.8271/images/og.png" group-title="USA",FreeForm
-https://videoserver2.org/live/M-fDuzz_B0hEw6nz2_i2NQ/1513881487/654bc354612eeefee71cd611b175730c.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="USA",FOX
-https://videoserver2.org/live/DapFmwVmuRTOsy5bilF62Q/1513880169/c2f52b70c2324ba134b2cba2962bedae.m3u8
-#EXTINF:-1 tvg-logo="http://channels.roku.com/images/dcad3c135d6447ea9238840c03c892b1-hd.jpg" group-title="USA",PBS
-https://videoserver1.org/live/tCeSsaqCgkiBRvBDA3iikQ/1513881970/fe22365235b496368609515523bfb971.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/Syfy-new-logo.jpg" group-title="USA",SYFY
-https://videoserver1.org/live/aX8Gh3BipWUEAz7e99BVOA/1513881969/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
-#EXTINF:-1 tvg-logo="https://spike.mtvnimages.com/images/missing_image2.jpg" group-title="USA",Spike
-https://videoserver2.org/live/RslIb1qYBY2P_oliF-DNyQ/1513880828/744a2e6d638ef5996394717e9e871717.m3u8
-#EXTINF:-1 tvg-logo="https://s0.wp.com/wp-content/themes/vip/pmc-deadline/library/images/pilot-panic/network-logos/cw.png" group-title="USA",The CW
-https://videoserver2.org/live/a2L2g33_K_Z1zEWGB-BP-w/1513881457/296e56c668bc8bd6b0044d3e4f034153.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvweek.com/wp-content/uploads/2014/10/amc-logo.jpg" group-title="USA",amc
-https://videoserver1.org/live/iW4iay5SG6T-7Oe41QWUVw/1513881665/c0371e35a2b3244f5edda7947172d954.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/06/watch-adult-swim-free-1024x341.jpg" group-title="USA",adult swim
-https://videoserver1.org/live/z2mRX7aaSiRKV3xUmEyA8w/1513880854/539125fdf85ba9fc38e2550c3c838e4d.m3u8
 #EXTINF:-1,BUT GO
 http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
