@@ -230,6 +230,127 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
+#EXTINF:-1 tvg-logo="http://images.electricpig.co.uk/wp-content/uploads/2011/02/4hd-logo-500px_offw.jpg" group-title="UK",4
+https://e2.tvmucho.com/abr/ch4-hd/abr/ch4-hd_720p/chunks.m3u8?nimblesessionid=1923039&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODoyMzo1MyBQTSZoYXNoX3ZhbHVlPTBBMC9VMitoVlBVd2ZZaWZaTi9VeWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+#EXTINF:-1 tvg-logo="http://images.electricpig.co.uk/wp-content/uploads/2011/02/4hd-logo-500px_offw.jpg" group-title="UK",4
+https://e2.tvmucho.com/abr/ch4-hd/abr/ch4-hd_720p/l_548608771_137145.ts?nimblesessionid=1923508&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NDo0OCBQTSZoYXNoX3ZhbHVlPTJRRDZGa1BQdXlwQWl4eTh0SmlpaVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC ONE
+https://e2.tvmucho.com/abr/bbc-one-hd/abr/bbc-one-hd_720p/chunks.m3u8?nimblesessionid=1923085&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODoyOToxOSBQTSZoYXNoX3ZhbHVlPXJNUFRWWEpySHMzMnUxK3N4U3BKc1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC ONE
+https://e1.tvmucho.com/abr/bbc-one-hd/abr/bbc-one-hd_720p/l_548504467_137112.ts?nimblesessionid=1921092&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MzoxOSBQTSZoYXNoX3ZhbHVlPW9JWDIrY0FtRytLN2xSZXY4TFpoMlE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC TWO
+https://e2.tvmucho.com/abr/bbc-two-hd/abr/bbc-two-hd_720p/chunks.m3u8?nimblesessionid=1923096&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMDoxOSBQTSZoYXNoX3ZhbHVlPTY2VU9CdTBDZW1xK1QrV3ExV0ZPRUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC TWO
+https://e2.tvmucho.com/abr/bbc-two-hd/abr/bbc-two-hd_720p/l_548564942_137130.ts?nimblesessionid=1923496&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NDoxNCBQTSZoYXNoX3ZhbHVlPVQ2aW81NTdnUDVZMW1RWjBCSWdqb3c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC FOUR
+https://e2.tvmucho.com/abr/bbc-four-hd/abr/bbc-four-hd_720p/chunks.m3u8?nimblesessionid=1923137&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMTowNyBQTSZoYXNoX3ZhbHVlPU81bHltZWZWbi9neFEwdlUwRGNHclE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC FOUR
+https://e2.tvmucho.com/abr/bbc-four-hd/abr/bbc-four-hd_720p/l_7088920_1772.ts?nimblesessionid=1923540&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NzozNCBQTSZoYXNoX3ZhbHVlPXo3T2Zic2lpckFQdXRDWGxtR1Z5d0E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",itv1
+https://e2.tvmucho.com/abr/itv-one-hd/abr/itv-one-hd_720p/chunks.m3u8?nimblesessionid=1923156&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMTo0MiBQTSZoYXNoX3ZhbHVlPU9LZGVZRlBqRkNpcUh1TEFZSWVNS2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",itv1
+https://e1.tvmucho.com/abr/itv-one-hd/abr/itv-one-hd_720p/l_481424950_120347.ts?nimblesessionid=1921102&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1Mzo0MyBQTSZoYXNoX3ZhbHVlPTFQWmRkNVM5ZEozMktJaHpRWnpmeEE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",itv2
+https://e2.tvmucho.com/abr/itv2/abr/itv2_576p/chunks.m3u8?nimblesessionid=1923526&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NjowMCBQTSZoYXNoX3ZhbHVlPWFCclZ5Y3NZUVI4bnlRMTVaNWVLcGc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",itv2
+https://e2.tvmucho.com/abr/itv2/abr/itv2_576p/l_481629392_120394.ts?nimblesessionid=1923526&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NjowMCBQTSZoYXNoX3ZhbHVlPWFCclZ5Y3NZUVI4bnlRMTVaNWVLcGc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",5
+https://e2.tvmucho.com/abr/channel-5-hd/abr/channel-5-hd_720p/chunks.m3u8?nimblesessionid=1923194&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMjozMCBQTSZoYXNoX3ZhbHVlPVVZQU4raUFHZWg1amVpVVNrMThsTUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNg==
+EXTINF:-1 tvg-logo="" group-title="UK",5
+https://e2.tvmucho.com/abr/channel-5-hd/abr/channel-5-hd_720p/l_548653116_137161.ts?nimblesessionid=1923516&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NToxNCBQTSZoYXNoX3ZhbHVlPURCQkpXRkFTKzc3NEQ4dkNSWHlONVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNg==
+EXTINF:-1 tvg-logo="" group-title="UK",itv3
+https://e2.tvmucho.com/abr/itv3/abr/itv3_576p/chunks.m3u8?nimblesessionid=1923222&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMzo0MCBQTSZoYXNoX3ZhbHVlPVVGNG55c29QMld0ZE1ZQW1HRUpUT3c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",itv3
+https://e1.tvmucho.com/abr/itv3/abr/itv3_576p/l_287392407_71838.ts?nimblesessionid=1921145&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1NjozMiBQTSZoYXNoX3ZhbHVlPWhjdU9KVVA3RXJSS2RBclI3WkJuVXc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",itv3
+https://e2.tvmucho.com/abr/itv3/abr/itv3_576p/chunks.m3u8?nimblesessionid=1923222&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozMzo0MCBQTSZoYXNoX3ZhbHVlPVVGNG55c29QMld0ZE1ZQW1HRUpUT3c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",E4
+https://e2.tvmucho.com/abr/e4/abr/e4_360p/chunks.m3u8?nimblesessionid=1923238&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozNDozMyBQTSZoYXNoX3ZhbHVlPWp2WnlwdUdia3VGUDlwVmZ1NDJMaWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj02
+EXTINF:-1 tvg-logo="" group-title="UK",E4
+https://e1.tvmucho.com/abr/e4/abr/e4_576p/l_546592673_136642.ts?nimblesessionid=1921167&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1ODowMiBQTSZoYXNoX3ZhbHVlPWNWNWRBdFNVMnE3ZEVyeFJOR2huVXc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj02
+EXTINF:-1 tvg-logo="" group-title="UK",4MORE
+https://e1.tvmucho.com/abr/more4/abr/more4_576p/chunks.m3u8?nimblesessionid=1920851&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozNToxNCBQTSZoYXNoX3ZhbHVlPXQ1NEZDMzlFRW01dkEvNEkwNmJhVGc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",4MORE
+https://e2.tvmucho.com/abr/more4/abr/more4_576p/l_546641108_136650.ts?nimblesessionid=1923552&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1ODozOCBQTSZoYXNoX3ZhbHVlPS9UL3BuNmw4eTJ6ZDVXaHhlSWRRTlE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",Dave
+https://e2.tvmucho.com/abr/dave/abr/dave_576p/chunks.m3u8?nimblesessionid=1923269&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozNjozNSBQTSZoYXNoX3ZhbHVlPXlxRmtoblR2aUhrejhocXRna3JtRHc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",Dave
+https://e2.tvmucho.com/abr/dave/abr/dave_576p/l_545324132_136325.ts?nimblesessionid=1923269&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozNjozNSBQTSZoYXNoX3ZhbHVlPXlxRmtoblR2aUhrejhocXRna3JtRHc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",4Film
+https://e1.tvmucho.com/abr/film-4/abr/film-4_576p/chunks.m3u8?nimblesessionid=1920874&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozNzoyNSBQTSZoYXNoX3ZhbHVlPXJHVUxIT0NnSmhhb09yQWwzVFFGVEE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",4Film
+https://e1.tvmucho.com/abr/film-4/abr/film-4_576p/l_545356655_136327.ts?nimblesessionid=1920874&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozNzoyNSBQTSZoYXNoX3ZhbHVlPXJHVUxIT0NnSmhhb09yQWwzVFFGVEE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC NEWS
+https://e2.tvmucho.com/abr/bbc-news-hd/abr/bbc-news-hd_720p/chunks.m3u8?nimblesessionid=1923279&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozODowMSBQTSZoYXNoX3ZhbHVlPUpsZTFEYlRFejd0VGFNQnV6ZkVBSGc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC NEWS
+https://e2.tvmucho.com/abr/bbc-news-hd/abr/bbc-news-hd_720p/l_480577538_120132.ts?nimblesessionid=1923279&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozODowMSBQTSZoYXNoX3ZhbHVlPUpsZTFEYlRFejd0VGFNQnV6ZkVBSGc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",cbbc
+https://e1.tvmucho.com/abr/cbbc-hd/abr/cbbc-hd_720p/chunks.m3u8?nimblesessionid=1920909&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozOTowMiBQTSZoYXNoX3ZhbHVlPVlUZzQxT0ZCR1piZk1DVzV0SlB6a3c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMQ==
+EXTINF:-1 tvg-logo="" group-title="UK",cbbc
+https://e1.tvmucho.com/abr/cbbc-hd/abr/cbbc-hd_720p/l_547680720_136915.ts?nimblesessionid=1920909&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozOTowMiBQTSZoYXNoX3ZhbHVlPVlUZzQxT0ZCR1piZk1DVzV0SlB6a3c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMQ==
+EXTINF:-1 tvg-logo="" group-title="UK",itv4
+https://e1.tvmucho.com/abr/itv4/abr/itv4_576p/chunks.m3u8?nimblesessionid=1920915&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozOTo0MCBQTSZoYXNoX3ZhbHVlPTdTZ28vSTVLbFJaNDZCUHlsbllLSnc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",itv4
+https://e1.tvmucho.com/abr/itv4/abr/itv4_576p/l_480633147_120150.ts?nimblesessionid=1920915&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODozOTo0MCBQTSZoYXNoX3ZhbHVlPTdTZ28vSTVLbFJaNDZCUHlsbllLSnc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",4 7
+https://e2.tvmucho.com/abr/4seven/abr/4seven_360p/chunks.m3u8?nimblesessionid=1923308&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MDoxMyBQTSZoYXNoX3ZhbHVlPWZUNSt2UVJhTGw0YmsxbFpleGJId2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",4 7
+https://e2.tvmucho.com/abr/4seven/abr/4seven_360p/l_545539374_110470.ts?nimblesessionid=1923308&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MDoxMyBQTSZoYXNoX3ZhbHVlPWZUNSt2UVJhTGw0YmsxbFpleGJId2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",DRAMA
+https://e1.tvmucho.com/abr/drama/abr/drama_576p/chunks.m3u8?nimblesessionid=1920927&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MDo0NiBQTSZoYXNoX3ZhbHVlPW93aTlpejhrY2hQM3Z4T05KZ0dqSEE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",DRAMA
+https://e1.tvmucho.com/abr/drama/abr/drama_576p/l_545592641_136387.ts?nimblesessionid=1920927&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MDo0NiBQTSZoYXNoX3ZhbHVlPW93aTlpejhrY2hQM3Z4T05KZ0dqSEE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",5 spike
+https://e1.tvmucho.com/abr/spike/abr/spike_576p/chunks.m3u8?nimblesessionid=1920939&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MToyNiBQTSZoYXNoX3ZhbHVlPS8wbzR3dmRQQmxwMk92djJRcklGNUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",5 spike
+https://e1.tvmucho.com/abr/spike/abr/spike_576p/l_545617633_136398.ts?nimblesessionid=1920939&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MToyNiBQTSZoYXNoX3ZhbHVlPS8wbzR3dmRQQmxwMk92djJRcklGNUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",itvBe
+https://e2.tvmucho.com/abr/itvbe/abr/itvbe_576p/chunks.m3u8?nimblesessionid=1923337&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MjowNiBQTSZoYXNoX3ZhbHVlPVlnYnNqZDQvMUZXVUEzaGJkbDRwbFE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",itvBe
+https://e2.tvmucho.com/abr/itvbe/abr/itvbe_576p/l_545652600_136404.ts?nimblesessionid=1923337&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MjowNiBQTSZoYXNoX3ZhbHVlPVlnYnNqZDQvMUZXVUEzaGJkbDRwbFE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj05
+EXTINF:-1 tvg-logo="" group-title="UK",CBS reality
+https://e1.tvmucho.com/abr/cbs-reality/abr/cbs-reality_576p/chunks.m3u8?nimblesessionid=1920958&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MjozOSBQTSZoYXNoX3ZhbHVlPVVnVEtGUGE3Qlk0WXBObGtOTGJNNWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",CBS reality
+https://e1.tvmucho.com/abr/cbs-reality/abr/cbs-reality_576p/l_545701188_136415.ts?nimblesessionid=1920958&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MjozOSBQTSZoYXNoX3ZhbHVlPVVnVEtGUGE3Qlk0WXBObGtOTGJNNWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",5USA
+https://e1.tvmucho.com/abr/5usa/abr/5usa_576p/chunks.m3u8?nimblesessionid=1920970&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MzoxNSBQTSZoYXNoX3ZhbHVlPVZ1aXhWNUV1eTZzdktBWENVSmppQnc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",5USA
+https://e1.tvmucho.com/abr/5usa/abr/5usa_576p/l_545720064_136423.ts?nimblesessionid=1920970&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0MzoxNSBQTSZoYXNoX3ZhbHVlPVZ1aXhWNUV1eTZzdktBWENVSmppQnc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj04
+EXTINF:-1 tvg-logo="" group-title="UK",euronews
+https://e2.tvmucho.com/abr/euronewsuk/abr/euronewsuk_360p/chunks.m3u8?nimblesessionid=1923362&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0Mzo0NSBQTSZoYXNoX3ZhbHVlPXlJUnp6aGIwV29BUTZqT1A3NzZhM2c9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",euronews
+EXTINF:-1 tvg-logo="" group-title="UK",CNBC EUROPE
+https://e2.tvmucho.com/abr/cnbc-europe/abr/cnbc-europe_576p/chunks.m3u8?nimblesessionid=1923415&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0NzowOCBQTSZoYXNoX3ZhbHVlPTBaY3FEVlJuRjhqMUFONG1Sb0F1UUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",CNBC EUROPE
+https://e2.tvmucho.com/abr/cnbc-europe/abr/cnbc-europe_576p/l_480933869_120223.ts?nimblesessionid=1923415&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0NzowOCBQTSZoYXNoX3ZhbHVlPTBaY3FEVlJuRjhqMUFONG1Sb0F1UUE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNQ==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC WORLD NEWS
+https://e2.tvmucho.com/abr/bbc-world-europe/abr/bbc-world-europe_576p/chunks.m3u8?nimblesessionid=1923420&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0Nzo0NyBQTSZoYXNoX3ZhbHVlPVlreTlGaWI3SGxCbThIazE5ckozSVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0yMA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC WORLD NEWS
+https://e2.tvmucho.com/abr/bbc-world-europe/abr/bbc-world-europe_576p/l_480960680_120233.ts?nimblesessionid=1923420&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0Nzo0NyBQTSZoYXNoX3ZhbHVlPVlreTlGaWI3SGxCbThIazE5ckozSVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0yMA==
+EXTINF:-1 tvg-logo="" group-title="UK",REALLY
+https://e1.tvmucho.com/abr/really/abr/really_576p/chunks.m3u8?nimblesessionid=1921055&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0ODoyMSBQTSZoYXNoX3ZhbHVlPWlFRU83Lzlqb2p5TlRqUFdTeTc4Qnc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",REALLY
+https://e1.tvmucho.com/abr/really/abr/really_576p/l_546017862_136495.ts?nimblesessionid=1921055&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0ODoyMSBQTSZoYXNoX3ZhbHVlPWlFRU83Lzlqb2p5TlRqUFdTeTc4Qnc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMA==
+EXTINF:-1 tvg-logo="" group-title="UK",YESTERDAY
+https://e2.tvmucho.com/abr/yesterday/abr/yesterday_576p/chunks.m3u8?nimblesessionid=1923440&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0OToyOSBQTSZoYXNoX3ZhbHVlPVA2QytvT0c2cnB4ajJBUWo0eWtDQWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMw==
+EXTINF:-1 tvg-logo="" group-title="UK",YESTERDAY
+https://e2.tvmucho.com/abr/yesterday/abr/yesterday_576p/l_546085780_136512.ts?nimblesessionid=1923440&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo0OToyOSBQTSZoYXNoX3ZhbHVlPVA2QytvT0c2cnB4ajJBUWo0eWtDQWc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMw==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC LONDON
+https://e2.tvmucho.com/abr/bbc1london/abr/bbc1london_576p/chunks.m3u8?nimblesessionid=1923446&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MDowMSBQTSZoYXNoX3ZhbHVlPWozalNRQnZpVkpJQUZyOHo0a3RPS0E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC LONDON
+https://e2.tvmucho.com/abr/bbc1london/abr/bbc1london_576p/l_546132560_136521.ts?nimblesessionid=1923446&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MDowMSBQTSZoYXNoX3ZhbHVlPWozalNRQnZpVkpJQUZyOHo0a3RPS0E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC PARLIAMENT
+https://e2.tvmucho.com/abr/parliament/abr/parliament_576p/chunks.m3u8?nimblesessionid=1923462&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MTowOSBQTSZoYXNoX3ZhbHVlPTg5NEx4UnlyRVJTeGdBdEFscmVGV1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",BBC PARLIAMENT
+https://e2.tvmucho.com/abr/parliament/abr/parliament_576p/l_546185600_136535.ts?nimblesessionid=1923462&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MTowOSBQTSZoYXNoX3ZhbHVlPTg5NEx4UnlyRVJTeGdBdEFscmVGV1E9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xNA==
+EXTINF:-1 tvg-logo="" group-title="UK",CNN INTERNATIONAL
+https://e2.tvmucho.com/abr/cnn-int-europe-hd/abr/cnn-int-europe-hd_720p/chunks.m3u8?nimblesessionid=1923472&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MTo0NiBQTSZoYXNoX3ZhbHVlPUR1c2J1aDgzcUZJR0NjYU5kNGdwRFE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0yMQ==
+EXTINF:-1 tvg-logo="" group-title="UK",CNN INTERNATIONAL
+https://e2.tvmucho.com/abr/cnn-int-europe-hd/abr/cnn-int-europe-hd_720p/l_548433946_137098.ts?nimblesessionid=1923472&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MTo0NiBQTSZoYXNoX3ZhbHVlPUR1c2J1aDgzcUZJR0NjYU5kNGdwRFE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0yMQ==
+EXTINF:-1 tvg-logo="" group-title="UK",Bloomberg
+https://e2.tvmucho.com/abr/bloomberg/abr/bloomberg_576p/chunks.m3u8?nimblesessionid=1923477&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MjozMCBQTSZoYXNoX3ZhbHVlPTBPczBIVVlVcytHSDQrRG5NNUk2NXc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMw==
+EXTINF:-1 tvg-logo="" group-title="UK",Bloomberg
+https://e2.tvmucho.com/abr/bloomberg/abr/bloomberg_576p/l_481233120_120299.ts?nimblesessionid=1923477&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjgvMjAxNyAwODo1MjozMCBQTSZoYXNoX3ZhbHVlPTBPczBIVVlVcytHSDQrRG5NNUk2NXc9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPTVMQ0tHQiZzdHJtX2xlbj0xMw==
 #EXTINF:-1 tvg-logo="https://static.next-episode.net/tv-shows-images/huge/american-dad.jpg" group-title="24/7",American Dad
 https://videoserver1.org/live/5Ua0te8Cf9wTC19XRgofVg/1513881505/523af537946b79c4f8369ed39ba78605.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Ecran_Titre_d%27American_Horror_Story.png" group-title="24/7",American Horror Story
