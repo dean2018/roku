@@ -20,13 +20,11 @@ http://82.80.192.11/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7218.ts
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
-http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512035/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@
-#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
-http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
 http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8 
-#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet HD
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/20171214T070253/index_850/00064/index_850432_00742.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet HD
 http://besttv10.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
@@ -63,6 +61,8 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3973.ts
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="Israel",33 Makan (IPBC) HD
 http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="Israel",33 Makan (IPBC) HD
