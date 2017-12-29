@@ -20,8 +20,6 @@ http://62.90.90.34/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.s
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC)
 http://82.80.192.11/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2063685957_b1928000.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
-http://l5.isramedia.net:1935/chan/smil:12dkk.smil/chunklist_w1181838441_b500000_tkdG9rZW5zdGFydHRpbWU9MTUxNDUxMjUwNyZ0b2tlbmVuZHRpbWU9MTUxNDUxNjEwNyZ0b2tlbmhhc2g9V1RfczRLNHFfZzVNX1J2emZiLWc3RXF0MURfLWVYRmx3TVh4Y0E2TlBicz0=.m3u8
-#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
 http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8 
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
