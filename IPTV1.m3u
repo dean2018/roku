@@ -85,6 +85,8 @@ http://62.90.90.56/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149458138/34369_430428015571_101544000571_5843020_7251630_n_400x400.jpg" group-title="Israel",Ynet HD
 http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Israel",JLTV (Jewish Life)
+http://52.40. 109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",Keshet (The Best) HD
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",Keshet (The Best)
