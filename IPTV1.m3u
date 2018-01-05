@@ -97,7 +97,6 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_1400_av-p.m3u8
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_850_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="Israel",JBS HD
 http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="Israel",yes 1.
 http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes4hd.png" group-title="Israel",yes 4.
@@ -108,6 +107,7 @@ http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
 http://192.99.18.85:1935/live/discovery/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg" group-title="Israel",HISTORY
 http://192.99.18.85:1935/live/history/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/2000px-ORFeins.svg.png" group-title="Austria",ORF eins
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/2000px-ORF2_logo_n.svg.png" group-title="Austria",ORF 2
@@ -116,6 +116,7 @@ http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="YES & HOT",yes 1.
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7172.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png" group-title="YES & HOT",yes 2.
@@ -146,6 +147,8 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/12hd.png" group-title="YES & HOT",12 KESHET
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7218.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/12hd.png" group-title="YES & HOT",12 KESHET
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7501.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/13HD.png" group-title="YES & HOT",13 RESHET
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/14HD.png" group-title="YES & HOT",14 ESER
@@ -158,6 +161,8 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7182.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7181.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_OH_HD.png" group-title="YES & HOT",yes OH.
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2947.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_EDGE.png" group-title="YES & HOT",yes EDGE.
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7502.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Gold_HD.png" group-title="YES & HOT",HOT Gold
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7189.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Action_HD.png" group-title="YES & HOT",HOT Action
@@ -166,6 +171,8 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7185.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7187.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Drama_HD.png" group-title="YES & HOT",HOT Drama
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7186.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_DIY_ISRAEL.png" group-title="YES & HOT",HOT DIY
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7333.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/keshet%20vod%20tv%20live.png" group-title="YES & HOT",KESHET - The Best
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="YES & HOT",20
@@ -223,9 +230,46 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7159.ts
 http://82.80.198.100:1935/live/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="YES & HOT",99 KNESSET
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png" group-title="YES & HOT",CNN International
+#EXTINF:-1,t tvg-logo="http://www.didifun.co.il/media/LOGO/fine-living-770x439_c.png" group-title="YES & HOT",Fine Living
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3923.ts
+
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png" group-title="NEWS",CNN International
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="YES & HOT",Sky News
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="NEWS",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1,BUT GO
+
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Hits.png" group-title="UK",MTV Hits UK
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4277.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Dance.png" group-title="UK",MTV Dance UK
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4278.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/MTV-BASE.png" group-title="UK",MTV Base UK
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4279.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/MTV-ROCKES.png" group-title="UK",MTV Rocks UK
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4275.ts
+
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_Food_Network.png"  group-title="USA",Food Network
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6017.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HGTV_LOGO_Generic_Green.png" group-title="USA",HGTV
+http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6006.ts
+
+#EXTINF:-1 group-title="18+",BUT GO
 http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
+
+#EXTINF:0, A&E cCloudTV.ORG (Top10) (US) (English)
+logo=http://i.imgur.com/OOENI42.jpg stream=https://videoserver1.org/live/GAf1UtbbwWwSTItgopxV0g/1515133615/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Top10
+
+#EXTINF:0, A&E (Entertainment) (US) (English)
+logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg stream=https://videoserver1.org/live/GAf1UtbbwWwSTItgopxV0g/1515133615/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Entertainment
+
+#EXTINF:0, ABC (News) (US) (English)
+logo=http://cimg.tvgcdn.net/i/r/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/resize/350x240/8132c2a3755be511de99cf2556676fde/150506-logo-abc-hp-lg.jpg stream=https://videoserver2.org/live/yBI9HMHCJsmp6nUu5Bpxzg/1515134816/ba354149f3c117ceb69529a1542b6281.m3u8 cat=News
+
+#EXTINF:0, AMC cCloudTV.ORG (Top10) (US) (English)
+logo=http://i.imgur.com/PJ3OW4C.png stream=https://videoserver2.org/live/SlxzUIU1lkpHN0P-DWd4sg/1515135962/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Top10
+
+#EXTINF:0, AMC (Entertainment) (US) (English)
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=https://videoserver2.org/live/3DlyO6rl85kPSspkYDJ-Ig/1515134035/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Entertainment
+
+#EXTINF:0, Action Movies (RandomAirTime 24/7) (US) (English)
+logo=http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png stream=https://videoserver1.org/live/Eq8pAZsyiZOzEfXLDkrXmg/1515135831/90ce2364e02379b96643fe4d0f2d7c25.m3u8 cat=RandomAirTime 24/7
+
