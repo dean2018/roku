@@ -138,13 +138,13 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="yes",yes 1. (Drama & Romantic Comedies)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7172.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png" group-title="yes",yes 2.
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png" group-title="yes",yes 2. (Sci-Fi, Horror, Thrillers, Comedies)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7173.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_3_HD.png" group-title="yes",yes 3. (Foreign & Independent Films)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7174.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_4_HD.png" group-title="yes",yes 4. (Action & Adventure)
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_4_HD.png" group-title="yes",yes 4. (Action, Adventure)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7175.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_5_HD.png" group-title="yes",yes 5. (Kids & Family)
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_5_HD.png" group-title="yes",yes 5. (Kids, Family)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7176.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Israeli_Cinema.png" group-title="yes",yes. Israeli Cinema
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3978.ts
