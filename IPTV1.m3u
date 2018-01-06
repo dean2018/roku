@@ -41,10 +41,10 @@ http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
 https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="Idan Plus",yes 1.
 http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes4hd.png" group-title="Idan Plus",yes 4.
-http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/yesoh.png" group-title="Idan Plus",yes 2.
 http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes4hd.png" group-title="Idan Plus",yes 4.
+http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2017/05/Discovery-Channel-Live-HD.png" group-title="Idan Plus",Discovery CHANNEL
 http://192.99.18.85:1935/live/discovery/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg" group-title="Idan Plus",HISTORY
@@ -138,13 +138,13 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="yes",yes 1. (Drama & Romantic Comedies)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7172.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png" group-title="yes",yes 2. (Sci-Fi, Horror, Thrillers, Comedies)
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_2_HD.png" group-title="yes",yes 2. (Sci-Fi / Horror / Thrillers / Comedies)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7173.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_3_HD.png" group-title="yes",yes 3. (Foreign & Independent Films)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7174.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_4_HD.png" group-title="yes",yes 4. (Action, Adventure)
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_4_HD.png" group-title="yes",yes 4. (Action / Adventure)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7175.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_5_HD.png" group-title="yes",yes 5. (Kids, Family)
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_5_HD.png" group-title="yes",yes 5. (Kids / Family)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7176.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Israeli_Cinema.png" group-title="yes",yes. Israeli Cinema
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3978.ts
