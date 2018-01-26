@@ -4,9 +4,9 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Kan 11 (IPBC) HD
 http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",Keshet 12
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7218.ts
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",Reshet 13 HD
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4_227041.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",Eser HD
 http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus",Israeli News Company HD
@@ -18,7 +18,7 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Idan Plus",21 Shopping Channel HD
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-p.m3u8
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="Idan Plus",Makan 33 (IPBC) HD
 http://82.80.192.27/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Kabbalah La'am
@@ -31,28 +31,12 @@ http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Idan Plus",Walla News HD
 http://62.90.90.56/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149458138/34369_430428015571_101544000571_5843020_7251630_n_400x400.jpg" group-title="Idan Plus",Ynet HD
-http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
-http://50.112.241.187:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV HD (Jewish Life)
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="Idan Plus",JBS HD (Jewish Broadcasting Service)
 http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",ILand HD
 https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="Idan Plus",yes 1.
-http://192.99.18.85:1935/live/yesmovies1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/more/yesoh.png" group-title="Idan Plus",yes 2.
-http://192.99.18.85:1935/live/yesmovies2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/Premium/yes4hd.png" group-title="Idan Plus",yes 4.
-http://192.99.18.85:1935/live/yesmovies4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2017/05/Discovery-Channel-Live-HD.png" group-title="Idan Plus",Discovery CHANNEL
-http://192.99.18.85:1935/live/discovery/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg" group-title="Idan Plus",HISTORY
-http://192.99.18.85:1935/live/history/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1713238421/logo_sq_400x400.jpg" group-title="Idan Plus",VIVA
-http://192.99.18.85:1935/live/viva/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://img.wcdn.co.il/f_auto,w_1200,t_54/ar_1.91,c_fill,g_auto/l_black_line,g_south,w_1.0,h_0.1,fl_relative,o_90/g_south_east,x_15,y_12,l_logo2,w_250/1/1/9/2/1192806-46.jpg" group-title="Idan Plus",VIVA PLUS
-http://192.99.18.85:1935/live/vivaplus/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Idan Plus (Back Up)",9
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream2.m3u8
@@ -80,34 +64,14 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3204.ts
 http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_2200.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus (Back Up)",Keshet 12
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/13HD.png"  group-title="Idan Plus (Back Up)",Reshet 13 HD
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7217.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus (Back Up)",Reshet 13
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus (Back Up)",Reshet 13
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus (Back Up)",Reshet 13
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus (Back Up)",Reshet 13
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/13.png" group-title="Idan Plus (Back Up)",Reshet 13 HQ
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7500.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/13.png" group-title="Idan Plus (Back Up)",Reshet 13 SD
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7215.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus (Back Up)",Eser (TV)
-http://192.99.18.85:1935/live/channel10/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus (Back Up)",Eser HD
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus (Back Up)",Eser HD
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:appmob_,400,500,800,2400/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus (Back Up)",Eser
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,2400,/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/14.png"  group-title="Idan Plus (Back Up)",Eser SD
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3202.ts
-#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus (Back Up)",Israeli News Company
-http://besttv10.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile1.m3u8
-#EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus (Back Up)",Israeli News Company
-http://besttv10.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus (Back Up)",Israeli News Company
 http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2296_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Idan Plus (Back Up)",Keshet (Re-runs)
@@ -116,6 +80,8 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_1400_av-p.m3u8
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/index_850_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Idan Plus (Back Up)",20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus (Back Up)",24
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_850_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png" group-title="Idan Plus (Back Up)",Makan 33 (IPBC) HD
 http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png" group-title="Idan Plus (Back Up)",96 Meir TV
