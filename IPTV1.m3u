@@ -6,7 +6,7 @@ http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",Keshet 12
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",Reshet 13 HD
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4_227041.ts
+http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",Eser HD
 http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus",Israeli News Company HD
