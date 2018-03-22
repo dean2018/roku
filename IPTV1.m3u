@@ -24,7 +24,6 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="Idan Plus",i24 NEWS
-https://stream-04.nyc.dailymotion.com/20/dm/3/x29atae/live-4.m3u8
 http://www.dailymotion.com/video/x29atae
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Idan Plus",euronews
 http://euronews-en-b7-cdn.hexaglobe.net/854ddccedc3c271358f4a775edcec41c/5a6b8d42/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_720p.m3u8
@@ -38,7 +37,7 @@ http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
 http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Knesset Channel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Idan Plus",Walla News HD
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Idan Plus",Walla News
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
@@ -46,7 +45,7 @@ http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@48104/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="Idan Plus",JBS (Jewish Broadcasting Service)
 http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",ILand HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",ILand
 https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/2000px-ORFeins.svg.png" group-title="Austria",ORF eins
