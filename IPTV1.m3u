@@ -56,6 +56,8 @@ http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/46.png" group-title="Austria", WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="yes",yes 1. (Drama & Romantic Comedies)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7172.ts
@@ -195,6 +197,10 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6017.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6006.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png" group-title="USA",CNN International
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
+#EXTINF:-1 tvg-logo="http://www.ctn.bz/multimedia/images/channel_listing/canal-7.jpg" group-title="USA",The Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/MSNBC-300x172.jpg" group-title="USA",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
 #EXTINF:-1 group-title="18+",BUT GO
 http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
