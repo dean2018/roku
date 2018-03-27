@@ -56,6 +56,10 @@ http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
+#EXTINF:-1 tvg-logo="" group-title="Austria",SERVUS TV Austria
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/46.png" group-title="Germany",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.zdf.de/static/0.37.3245/img/logos/epg/zdf.svg" group-title="Germany",ZDF
@@ -64,6 +68,8 @@ https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
 https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.zdf.de/static/0.37.3245/img/logos/epg/zdfneo-black.svg" group-title="Germany",ZDFinfo
 https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",ZDF KULTUR
+http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.zdf.de/static/0.37.3245/img/logos/epg/zdfneo-black.svg" group-title="Germany",3sat
 https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/71.png" group-title="Germany",Das Erste
@@ -78,6 +84,12 @@ http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt_400x400.jpg" group-title="Germany",ServusTV
 http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Germany",NDR
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_1_HD.png" group-title="yes",yes 1. (Drama & Romantic Comedies)
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7172.ts
