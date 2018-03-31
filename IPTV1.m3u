@@ -223,8 +223,6 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4244.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC One
-http://iptv.abciptv.com:80/live/yyy/xxx/192.ts
-#EXTINF:-1 tvg-logo="" group-title="UK",BBC One
 https://live.tvplayer.com/bbcone/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC Two
 https://live.tvplayer.com/bbctwo/5/prog_index.m3u8
