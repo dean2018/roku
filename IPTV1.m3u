@@ -222,7 +222,7 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4276.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4244.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1 tvg-logo="" group-title="UK",BBC One
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",BBC One
 https://live.tvplayer.com/bbcone/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC Two
 https://live.tvplayer.com/bbctwo/5/prog_index.m3u8
@@ -232,7 +232,7 @@ https://live.tvplayer.com/bbc4/3/prog_index.m3u8
 https://live.tvplayer.com/cbbc/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC RED BUTTON
 https://live.tvplayer.com/redbutton/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",ITV
+#EXTINF:-1 tvg-logo="" group-title="UK",itv
 https://live.tvplayer.com/itv/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",itv
 https://live.tvplayer.com/itv2/5/playlist.m3u8
