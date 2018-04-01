@@ -18,6 +18,8 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Idan Plus",21 Shopping Channel
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/1/5/9/5/1595650-46.jpg" group-title="Idan Plus",23 Israeli Educational Television
+http://94.130.52.246:1935/C3/smil:C3.smil/chunklist_w1242494291_b964000_slEng.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/1/5/9/5/1595650-46.jpg" group-title="Idan Plus",23 Israeli Educational Television
 http://cast-tv.net:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8?b=200-2500&hdnea=st%3D1522606053%7Eexp%3D1522606953%7Eacl%3D%2F*%7Ehmac%3D6e3c611837a5af02a6ba96402889874048fa4d7f7585229b653243f2b2194ccc
