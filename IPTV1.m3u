@@ -4,7 +4,11 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",11 Kan (IPBC)
 https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8?hdnea=st%3D1522605760%7Eexp%3D1522606660%7Eacl%3D%2F*%7Ehmac%3De6fed93c2adcdb396bfe384ae95c8e43f0066c83ccac2a774544aa9ad49f5507
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
+https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
@@ -20,9 +24,9 @@ http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21T
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/1/5/9/5/1595650-46.jpg" group-title="Idan Plus",23 Israeli Educational Television
 http://cast-tv.net:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8?b=200-2500&hdnea=st%3D1522606053%7Eexp%3D1522606953%7Eacl%3D%2F*%7Ehmac%3D6e3c611837a5af02a6ba96402889874048fa4d7f7585229b653243f2b2194ccc
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.i24news.tv/upload/image/1352b9caa849f9325c12157cf9dfc47bc0e3c73e.png" group-title="Idan Plus",i24 NEWS
 http://www.dailymotion.com/video/x29atae
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Idan Plus",euronews
@@ -222,7 +226,7 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4276.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4244.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",BBC One
+#EXTINF:-1 tvg-logo="" group-title="UK",BBC One
 https://live.tvplayer.com/bbcone/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC Two
 https://live.tvplayer.com/bbctwo/5/prog_index.m3u8
