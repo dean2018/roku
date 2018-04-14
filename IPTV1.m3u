@@ -219,6 +219,8 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4244.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC One
+https://vs-dash-uk-live.akamaized.net/pool_32/live/bbc_one_london/bbc_one_london.isml/dash/bbc_one_london-video=1604032-396805018.m4s
+#EXTINF:-1 tvg-logo="" group-title="UK",BBC One
 https://live.tvplayer.com/bbcone/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC Two
 https://live.tvplayer.com/bbctwo/5/prog_index.m3u8
