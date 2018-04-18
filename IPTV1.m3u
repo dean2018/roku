@@ -4,7 +4,7 @@ http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_defins
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",11 Kan (IPBC)
 https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
