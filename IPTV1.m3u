@@ -37,6 +37,8 @@ http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Idan Plus",Walla News
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live
+https://ynet-lh.akamaihd.net/i/ynet_1@123292/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thebrand.co.il/wp-content/uploads/2012/07/%D7%9C%D7%A9%D7%9B%D7%AA-%D7%94%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%D7%99%D7%AA-1.jpg" group-title="Idan Plus",Israeli Goverment Press Office
