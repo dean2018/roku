@@ -10,15 +10,18 @@ https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
-https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
 https://nana10-hdl-uk-sw.ctedgecdn.net/Ch10/amlst:ch10_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
+https://nana10-hdl-uk-sw.ctedgecdn.net/10tv_Desktop/index.m3u8?dvr
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus",Israeli News Company
 https://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Idan Plus",The Best of Keshet
 https://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Idan Plus",20
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Idan Plus",21 Shopping Channel
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/1/5/9/5/1595650-46.jpg" group-title="Idan Plus",23 Israeli Educational Television
