@@ -7,14 +7,20 @@ https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCch
 http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
+http://145.239.11.144:25461/live/adirtal/Aa123456/1060.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
+http://145.239.11.144:25461/live/adirtal/Aa123456/41.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
 https://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser (+8 hours)
 http://nana10-hdl-uk-sw.ctedgecdn.net/10tv_Desktop/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
+http://145.239.11.144:25461/live/adirtal/Aa123456/2872.ts
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus",Israeli News Company
 https://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Idan Plus",The Best of Keshet
@@ -218,8 +224,12 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Hits.png" group-title="UK",MTV Hits UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4277.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Dance.png" group-title="UK",MTV Dance UK
+http://145.239.11.144:25461/live/adirtal/Aa123456/3179.ts
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/vh1-logo.png" group-title="UK",VH1
+http://145.239.11.144:25461/live/adirtal/Aa123456/3181.ts
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Hits.png" group-title="UK",MTV Live HD
+http://145.239.11.144:25461/live/adirtal/Aa123456/3177.ts
+#EXTINF:-1 tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-mtv-live-hd-spot.png" group-title="UK",MTV Dance UK
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4278.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/MTV-BASE.png" group-title="UK",MTV Base UK
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4279.ts
