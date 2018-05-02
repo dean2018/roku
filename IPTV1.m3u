@@ -25,7 +25,6 @@ https://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 https://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Idan Plus",20
 https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Idan Plus",21 Shopping Channel
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/1/5/9/5/1595650-46.jpg" group-title="Idan Plus",23 Israeli Educational Television
@@ -290,12 +289,7 @@ https://simplestream.tvplayer.com/failarmy/failarmy_linear__high.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",Pet Collective
 Request URL: https://simplestream.tvplayer.com/petcollective/the_pet_collective_linear__high.m3u8
 
-
-
-
-
-
-#EXTINF:-1,t tvg-logo="http://www.didifun.co.il/media/LOGO/fine-living-770x439_c.png" group-title="USA",Fine Living
+#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/fine-living-770x439_c.png" group-title="USA",Fine Living
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3923.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_Food_Network.png"  group-title="USA",Food Network
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6017.ts
@@ -309,6 +303,3 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="https://img3.ekrana.info/1303/travel_channel.jpg" group-title="USA",Travel Channel
 http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8
-
-#EXTINF:-1 group-title="18+",BUT GO
-http://edge2.everyon.tv:1935/etv2sb/phd772/huraivza.m3u8
