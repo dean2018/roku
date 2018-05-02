@@ -13,14 +13,12 @@ http://145.239.11.144:25461/live/adirtal/Aa123456/1060.ts
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
 http://145.239.11.144:25461/live/adirtal/Aa123456/41.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet SD
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
 https://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser (+8 hours)
 http://nana10-hdl-uk-sw.ctedgecdn.net/10tv_Desktop/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Idan Plus",14 Eser
-http://145.239.11.144:25461/live/adirtal/Aa123456/2872.ts
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Idan Plus",Israeli News Company
 https://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Idan Plus",The Best of Keshet
