@@ -51,6 +51,8 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.greenwaveadvisors.com/wp-content/uploads/Reuters-Logo.jpg" group-title="Idan Plus",Reuters
+https://churro-cdn.prod.reuters.tv/rest/v2/live/playlist/story/230573/chunk/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thebrand.co.il/wp-content/uploads/2012/07/%D7%9C%D7%A9%D7%9B%D7%AA-%D7%94%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%D7%99%D7%AA-1.jpg" group-title="Idan Plus",Israeli Goverment Press Office
@@ -236,6 +238,8 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4276.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4244.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1491214623/1532.png" group-title="UK",London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC One
 https://live.tvplayer.com/bbcone/5/prog_index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",BBC Two
