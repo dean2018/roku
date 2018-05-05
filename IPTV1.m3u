@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Idan Plus",TEST
-https://vs-dash-uk-live.akamaized.net/pool_32/live/bbc_one_london/bbc_one_london.isml/dash/bbc_one_london-pa3=96000-397281618.m4s
 #EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Idan Plus",9
 http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",11 Kan (IPBC)
