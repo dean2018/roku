@@ -5,6 +5,8 @@ http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/
 https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
+http://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17&Cookie=hdntl%3Dexp%3D1524644852%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D30843858d8cd48bec198392f83bb90904b8f5548db8916718d64eb5a6e9cd4f1;removed_hdnts%3Dst%3D1524558332%7Eexp%3D1524559232%7Eacl%3D/%2A%7Ehmac%3D3541078258aa26aa80075edbff768c320efa094941a683ca7f8aa3b983e42614;_alid_%3DkRfE1rHl2SJZTIeezM2ORg%3D%3D
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet SD
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_LOW/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
@@ -307,3 +309,63 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="https://img3.ekrana.info/1303/travel_channel.jpg" group-title="USA",Travel Channel
 http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8
+
+#EXTINF:-1,Channel 2 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6033.ts
+EXTINF:-1,Channel 2 News IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6029.ts
+EXTINF:-1,Channel 9 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6032.ts
+EXTINF:-1,Channel 10 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6031.ts
+EXTINF:-1,Channel 20 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6030.ts
+EXTINF:-1,Yes Disney Junior IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6025.ts
+EXTINF:-1,Hot Junior IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6038.ts
+EXTINF:-1,Hop Yaldut IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6034.ts
+EXTINF:-1,The Food Channel IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6027.ts
+EXTINF:-1,Yes Travel Channel IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6022.ts
+EXTINF:-1,Music 24 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6026.ts
+EXTINF:-1,Yes Baby IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6028.ts
+EXTINF:-1,Hot 3 FHD IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6041.ts
+EXTINF:-1,Hot Action FHD IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6035.ts
+EXTINF:-1,Hot Drama FHD IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6039.ts
+EXTINF:-1,Hot Fun FHD IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6037.ts
+EXTINF:-1,Hot Gold IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6040.ts
+EXTINF:-1,Hot HBO IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6036.ts
+EXTINF:-1,Hot Plus IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6042.ts
+EXTINF:-1,Yes Hop IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6024.ts
+EXTINF:-1,Yes Junior IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6023.ts
+EXTINF:-1,Yes Nick Jr IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6021.ts
+EXTINF:-1,Yes One IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6020.ts
+EXTINF:-1,Yes Sport 1 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6019.ts
+EXTINF:-1,Yes Sport 2 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6018.ts
+EXTINF:-1,Yes Sport 5 IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6017.ts
+EXTINF:-1,Yes Sport 5 Live IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6016.ts
+EXTINF:-1,Yes Viva IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6015.ts
+EXTINF:-1,Yes Zoom IL
+http://mypanel.tv:8080/live/sevilla1/sevilla1/6014.ts
+
