@@ -53,6 +53,14 @@ http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations Live
+https://bcliveunivsecure-lh.akamaihd.net/i/morestakeout_1@575456/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations Live
+https://bcliveunivsecure-lh.akamaihd.net/i/stakeout_1@575457/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations Live
+https://bcliveunivsecure-lh.akamaihd.net/i/cr4_1@575441/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.greenwaveadvisors.com/wp-content/uploads/Reuters-Logo.jpg" group-title="Idan Plus",Reuters
 https://churro-cdn.prod.reuters.tv/rest/v2/live/playlist/story/230573/chunk/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
