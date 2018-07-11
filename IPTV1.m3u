@@ -231,6 +231,107 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="yes",Sky News
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
 
+#EXTINF:-1,ALJAZEERA NEWS
+http://load1.mysoltv.com:1992/UK_ALJAZEERA_NEWS_HD/index.m3u8
+#EXTINF:-1,BBC One
+http://load1.mysoltv.com:1992/UK_BBC_One_HD/index.m3u8
+#EXTINF:-1,BBC Two
+http://load1.mysoltv.com:1992/UK_BBC_Two_HD/index.m3u8
+#EXTINF:-1,BBC Three
+http://load1.mysoltv.com:1992/UK_BBC_Three_HD/index.m3u8
+#EXTINF:-1,BBC Four
+http://load1.mysoltv.com:1992/UK_BBC_Four_HD/index.m3u8
+#EXTINF:-1,BBC Parliment
+http://load1.mysoltv.com:1992/UK_BBC_Parliment_HD/index.m3u8
+#EXTINF:-1,ITV
+http://load1.mysoltv.com:1992/UK_ITV_HD/index.m3u8
+#EXTINF:-1,ITV 2
+http://load1.mysoltv.com:1992/UK_ITV_2_HD/index.m3u8
+#EXTINF:-1,ITV 3
+http://load1.mysoltv.com:1992/UK_ITV_3_HD/index.m3u8
+#EXTINF:-1,ITV 4
+http://load1.mysoltv.com:1992/UK_ITV_4_HD/index.m3u8
+#EXTINF:-1,ITV BE
+http://load1.mysoltv.com:1992/UK_ITV_BE_HD/index.m3u8
+#EXTINF:-1,Channel 4
+http://wowza2.mysoltv.com:1992/UK_ENG_uk_channel_4/index.m3u8
+#EXTINF:-1,Channel 5
+http://wowza2.mysoltv.com:1992/UK_ENG_uk_channel5/index.m3u8
+#EXTINF:-1,RTE Two
+http://wowza2.mysoltv.com:1992/UK_ENG_rte_two/index.m3u8
+#EXTINF:-1,CNBC
+http://wowza2.mysoltv.com:1992/UK_ENG_nbcsn/index.m3u8
+#EXTINF:-1,CBS Action
+http://wowza2.mysoltv.com:1992/UK_ENG_cbs_action/index.m3u8
+#EXTINF:-1,CBS Drama
+http://wowza2.mysoltv.com:1992/UK_ENG_cbs_drama/index.m3u8
+#EXTINF:-1,CBS Reality
+http://wowza2.mysoltv.com:1992/UK_ENG_cbs_reality/index.m3u8
+#EXTINF:-1,Baby
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://wowza2.mysoltv.com:1992/UK_ENG_NICKELODEON/index.m3u8
+#EXTINF:-1,Nick Jr
+http://wowza2.mysoltv.com:1992/UK_ENG_NICK_JR/index.m3u8
+#EXTINF:-1,Nick Toons
+http://wowza2.mysoltv.com:1992/UK_ENG_NICK_TOONNS/index.m3u8
+#EXTINF:-1,Disney XD
+http://wowza2.mysoltv.com:1992/UK_DISNEY_XD/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/index.m3u8
+#EXTINF:-1,Nat Geo
+http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://wowza2.mysoltv.com:1992/UK_ENG_nat_geo_wild_shsaa/index.m3u8
+#EXTINF:-1,History
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1,H2
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1,Discovery
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery/index.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:-1,DISCOVERY SHED
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_shed/index.m3u8
+#EXTINF:-1,DISCOVERY HOME
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+#EXTINF:-1,TLC
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:-1,VH!
+http://wowza2.mysoltv.com:1992/UK_ENG_vh1/index.m3u8
+#EXTINF:-1,Spike
+http://wowza2.mysoltv.com:1992/UK_ENG_spike/index.m3u8
+#EXTINF:-1,Comedy Central
+http://wowza2.mysoltv.com:1992/UK_ENG_comedy_central/index.m3u8
+#EXTINF:-1,MTV Live
+http://wowza2.mysoltv.com:1992/UK_ENG_mtv_live/index.m3u8
+#EXTINF:-1,TCM
+http://wowza2.mysoltv.com:1992/UK_ENG_tcm/index.m3u8
+#EXTINF:-1,Living
+http://wowza2.mysoltv.com:1992/UK_ENG_living/index.m3u8
+#EXTINF:-1,Watch
+http://wowza2.mysoltv.com:1992/UK_ENG_watch/index.m3u8
+#EXTINF:-1,Eden
+http://wowza2.mysoltv.com:1992/UK_ENG_eden/index.m3u8
+#EXTINF:-1,Really
+http://wowza2.mysoltv.com:1992/UK_ENG_really/index.m3u8
+#EXTINF:-1,DMAX
+http://wowza2.mysoltv.com:1992/UK_ENG_dmax/index.m3u8
+#EXTINF:-1,SKY MOVIE DISNEY
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_disney/index.m3u8
+#EXTINF:-1,SKY MOVIE FAMILY
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_family/index.m3u8
+#EXTINF:-1,SKY MOVIE COMEDY
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_comedy/index.m3u8
+#EXTINF:-1,SKY MOVIE SELECT
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_select/index.m3u8
+#EXTINF:-1,SKY MOVIE ADVENTURE
+http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Action&Adventure_gd/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Hits.png" group-title="UK",MTV Hits UK
 http://145.239.11.144:25461/live/adirtal/Aa123456/3179.ts
 #EXTINF:-1 tvg-logo="http://logonoid.com/images/vh1-logo.png" group-title="UK",VH1
