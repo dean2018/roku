@@ -242,27 +242,5 @@
           ],
           "StreamFormat": "hls",
           "Live": true
-        },
-        {
-          "Title": Ynet",
-          "ShortDescriptionLine1": "Ynet Live",
-          "ShortDescriptionLine2": "",
-          "Poster": "",
-          "StreamUrls": [
-            "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "euronews",
-          "ShortDescriptionLine1": "euronews",
-          "ShortDescriptionLine2": "",
-          "Poster": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",
-          "StreamUrls": [
-            "https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
         }
 }
