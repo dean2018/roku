@@ -1,4 +1,3 @@
-{
       "Name": "LUSHIM",
       "Default": true,
       "Items": [
@@ -243,4 +242,3 @@
           "StreamFormat": "hls",
           "Live": true
         }
-}
