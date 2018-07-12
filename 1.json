@@ -1,6 +1,4 @@
 {
-  "Categories": [
-    {
       "Name": "LUSHIM",
       "Default": true,
       "Items": [
@@ -246,7 +244,7 @@
           "Live": true
         },
         {
-          "Title": Ynet Live",
+          "Title": Ynet",
           "ShortDescriptionLine1": "Ynet Live",
           "ShortDescriptionLine2": "",
           "Poster": "",
@@ -267,5 +265,4 @@
           "StreamFormat": "hls",
           "Live": true
         }
-  ]
 }
