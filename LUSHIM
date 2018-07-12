@@ -1,0 +1,271 @@
+{
+  "Categories": [
+    {
+      "Name": "LUSHIM",
+      "Default": true,
+      "Items": [
+        {
+          "Title": "9",
+          "ShortDescriptionLine1": "9",
+          "ShortDescriptionLine2": "See http://9tv.co.il",
+          "Poster": "ch_9.png",
+          "StreamUrls": [
+	    "http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/chunklist.m3u8",
+            "http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "ecpCode": "ch1",
+          "Title": "11 - Kan (Israeli Public Broadcasting Corporation)",
+          "ShortDescriptionLine1": "11 - Kan (IPBC)",
+          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "Poster": "ipbc_tv_11.png",
+          "StreamUrls": [
+            "https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8",
+	    "http://player.kan.org.il/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default",
+            "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "12 - Keshet",
+          "ShortDescriptionLine1": "12 Keshet",
+          "ShortDescriptionLine2": "See http://www.mako.co.il",
+          "Poster": "keshet12.png",
+          "StreamUrls": [
+	    "https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8",
+            "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@",
+	    "https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_LOW/index.m3u8",
+            "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512035/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@",
+	    "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?@@TICKET@@"
+
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "The Best of Keshet",
+          "ShortDescriptionLine1": "The best of Keshet",
+          "ShortDescriptionLine2": "Keshet reruns - See http://www.mako.co.il",
+          "Poster": "keshet-meytav.png",
+          "StreamUrls": [
+            "http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "13 - Reshet",
+          "ShortDescriptionLine1": "13 Reshet",
+          "ShortDescriptionLine2": "See http://reshet.tv",
+          "Poster": "reshet_13.png",
+          "StreamUrls": [
+            "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8",
+	    "http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "ecpCode": "ch10",
+          "Title": "14 Eser",
+          "ShortDescriptionLine1": "14 Eser",
+          "ShortDescriptionLine2": "See http://www.nana10.co.il",
+          "Poster": "ch10.png",
+          "StreamUrls": [
+	    "https://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8"
+            "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
+            "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "ecpCode": "ch10 +6",
+          "Title": "14 Eser +6",
+          "ShortDescriptionLine1": "14 Eser +6",
+          "ShortDescriptionLine2": "See http://www.nana10.co.il",
+          "Poster": "ch10.png",
+          "StreamUrls": [
+	    "https://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8"
+            "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
+            "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "ecpCode": "ch20",
+          "Title": "20",
+          "ShortDescriptionLine1": "20",
+          "ShortDescriptionLine2": "See www.ch-20.tv",
+          "Poster": "ch20.png",
+          "StreamUrls": [
+            "https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "23 - Israeli Educational Television",
+          "ShortDescriptionLine1": "23 Israeli Educational Television",
+          "ShortDescriptionLine2": "See http://www.23tv.co.il",
+          "Poster": "chinuchit23.png",
+          "StreamUrls": [
+            "http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8",
+            "http://cast-tv.net:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8",
+            "http://62.219.24.229:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8",
+            "http://62.219.24.228:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/chunklist_w1057484284_b896000_slHeb.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "24",
+          "ShortDescriptionLine1": "24",
+          "ShortDescriptionLine2": "See http://www.mako.co.il/music-24",
+          "Poster": "music24.png",
+          "StreamUrls": [
+	    "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8",
+	    "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8",
+            "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8",
+	    "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8",
+            "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+	{
+          "Title": "26 - Big Brither",
+          "ShortDescriptionLine1": "26 - Big Brither",
+          "ShortDescriptionLine2": "See http://reshet.tv/entertainment/the-big-brother/",
+          "Poster": "https://media.reshet.tv/image/upload/v1522754689/big-brother-2018-1_ykmsap.png",
+          "StreamUrls": [
+            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m3u8",
+            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "33 - MaKan (Israeli Public Broadcasting Corporation)",
+          "ShortDescriptionLine1": "33 - MaKan (IPBC)",
+          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "Poster": "ipbc_tv_33.png",
+          "StreamUrls": [
+	    "https://82-80-192-27.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8",
+            "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCmakantvLVM/hls/metadata.xml?smil_profile=default"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "66 - Kabbalah La'am",
+          "ShortDescriptionLine1": "66 - Kabbalah La'am",
+          "ShortDescriptionLine2": "See http://kab.co.il",
+          "Poster": "kab.png",
+          "StreamUrls": [
+            "http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Meir TV",
+          "ShortDescriptionLine1": "Meir TV",
+          "ShortDescriptionLine2": "See http://www.meirtv.co.il",
+          "Poster": "meir.png",
+          "StreamUrls": [
+            "http://82.80.198.100:1935/live/live1/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Hidabrut",
+          "ShortDescriptionLine1": "Hidabrut",
+          "ShortDescriptionLine2": "See http://hidabrut.com",
+          "Poster": "hidabrut.jpg",
+          "StreamUrls": [
+	    "http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8",
+            "http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "ILand",
+          "ShortDescriptionLine1": "ILand",
+          "ShortDescriptionLine2": "",
+          "Poster": "",
+          "StreamUrls": [
+            "https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8",
+            "http://58ceb41d8e384.streamlock.net:1935/live/myStream/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "99 - Knesset Channel",
+          "ShortDescriptionLine1": "Knesset channel",
+          "ShortDescriptionLine2": "See http://main.knesset.gov.il/News/Broadcast",
+          "Poster": "knesset.png",
+          "StreamUrls": [
+            "http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "ecpCode": "ch2news",
+          "Title": "Israeli News Company",
+          "ShortDescriptionLine1": "Israeli News Company",
+          "ShortDescriptionLine2": "See http://reshet.tv/News_n/heb/news",
+          "Poster": "news_co.png",
+          "StreamUrls": [
+            "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+	    "http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8",
+            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunklist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Walla News",
+          "ShortDescriptionLine1": "Walla News",
+          "ShortDescriptionLine2": "See https://news.walla.co.il",
+          "Poster": "walla.png",
+          "StreamUrls": [
+	    "http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8",
+            "http://walla-metadata-rr-d.vidnt.com/live/walla/ulpan/hls/metadata.xml"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": Ynet Live",
+          "ShortDescriptionLine1": "Ynet Live",
+          "ShortDescriptionLine2": "",
+          "Poster": "",
+          "StreamUrls": [
+            "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "euronews",
+          "ShortDescriptionLine1": "euronews",
+          "ShortDescriptionLine2": "",
+          "Poster": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/86/4f/b0/864fb0ca-d090-b4da-ac15-f11cef17f538/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",
+          "StreamUrls": [
+            "https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        }
+  ]
+}
