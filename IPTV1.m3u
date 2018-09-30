@@ -52,10 +52,6 @@ http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
 http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Knesset Channel
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Reuters.jpg" group-title="Idan Plus",Reuters News USA
-https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,264626,264539,264596,57445,127826,264635,127660,264618,127724,264572,127694,264546,127787,264548,127710,264690,127755,264174,127785,264700,127710,264506,127815,264486,127815,264383,127755,264398,127696,264588,127725,264664,127650,264567,127782,264686,57634/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.afsc.org/sites/default/files/styles/maxsize/public/images/Reuters.jpg" group-title="Idan Plus",Reuters News UK
-https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,264626,264539,264509,57445,127826,264635,127660,264618,127724,264572,127694,264546,127787,264548,127710,264690,127755,264174,127785,264700,127710,264506,57978,264486,127815,264383,127696,264588,127725,264664,127650,264567,264669,127782,264686,57634/rendered/resolution/512x288/codecs/ignored.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Idan Plus",Walla News
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live 1
