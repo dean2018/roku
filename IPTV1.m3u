@@ -58,14 +58,6 @@ http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live 2
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations TV
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations Live
-https://bcliveunivsecure-lh.akamaihd.net/i/morestakeout_1@575456/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations Live
-https://bcliveunivsecure-lh.akamaihd.net/i/stakeout_1@575457/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="Idan Plus",United Nations Live
-https://bcliveunivsecure-lh.akamaihd.net/i/cr4_1@575441/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thebrand.co.il/wp-content/uploads/2012/07/%D7%9C%D7%A9%D7%9B%D7%AA-%D7%94%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%D7%99%D7%AA-1.jpg" group-title="Idan Plus",Israeli Goverment Press Office
@@ -77,6 +69,15 @@ https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Idan Plus",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations Live
+https://bcliveunivsecure-lh.akamaihd.net/i/morestakeout_1@575456/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations Live
+https://bcliveunivsecure-lh.akamaihd.net/i/stakeout_1@575457/master.m3u8
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations Live
+https://bcliveunivsecure-lh.akamaihd.net/i/cr4_1@575441/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/2000px-ORFeins.svg.png" group-title="Austria",ORF eins
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/2000px-ORF2_logo_n.svg.png" group-title="Austria",ORF 2
@@ -85,9 +86,6 @@ http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
-#EXTINF:-1 tvg-logo="" group-title="Austria",SERVUS TV Austria
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/46.png" group-title="Germany",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
@@ -120,90 +118,7 @@ http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",NDR
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_MTV_Hits.png" group-title="UK",MTV Hits UK
-http://145.239.11.144:25461/live/adirtal/Aa123456/3179.ts
-#EXTINF:-1 tvg-logo="http://logonoid.com/images/vh1-logo.png" group-title="UK",VH1
-http://145.239.11.144:25461/live/adirtal/Aa123456/3181.ts
-#EXTINF:-1 tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-mtv-live-hd-spot.png" group-title="UK",MTV Live HD
-http://145.239.11.144:25461/live/adirtal/Aa123456/3177.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/2000px-MTV_Dance_2017_logo.svg.png" group-title="UK",MTV Dance UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4278.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/MTV-BASE.png" group-title="UK",MTV Base UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4279.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/MTV-ROCKES.png" group-title="UK",MTV Rocks UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4275.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/YES_MTV_MUSIC.png" group-title="UK",MTV Music UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4276.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/VIVA-M.png" group-title="UK",Viva UK
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4244.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/UK_Sky_News.png" group-title="UK",Sky News
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4260.ts
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1491214623/1532.png" group-title="UK",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",BBC One
-https://live.tvplayer.com/bbcone/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",BBC Two
-https://live.tvplayer.com/bbctwo/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",BBC FOUR
-https://www.firstonetv.net:443/src/jwplayer/black.mp4
-#EXTINF:-1 tvg-logo="" group-title="UK",CBBC
-https://live.tvplayer.com/cbbc/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",BBC RED BUTTON
-https://live.tvplayer.com/redbutton/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",itv
-https://live.tvplayer.com/itv/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",itv
-https://live.tvplayer.com/itv2/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",itv2
-https://live.tvplayer.com/itv2/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",itv3
-https://live.tvplayer.com/itv3/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",itv4
-https://live.tvplayer.com/itv4/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",itvBe.
-https://live.tvplayer.com/itvbe/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",Citv
-https://live.tvplayer.com/citv/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",4
-https://live.tvplayer.com/channel4/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",MORE4
-https://live.tvplayer.com/more4/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",4seven
-https://live.tvplayer.com/4seven/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",5
-http://live.tvplayer.com/channel5/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",travel channel
-http://live.tvplayer.com/travel/5/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",CNN international
-https://live.tvplayer.com/cnn/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",home
-https://live.tvplayer.com/home/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",DRAMA
-https://live.tvplayer.com/drama/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",REALLY
-https://live.tvplayer.com/really/4/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",Dave
-https://live.tvplayer.com/dave/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",Dave ja vu
-https://live.tvplayer.com/davejavu/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",YESTERDAY
-https://live.tvplayer.com/yesterday/5/prog_index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",FAILARMY
-https://simplestream.tvplayer.com/failarmy/failarmy_linear__high.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK",Pet Collective
-Request URL: https://simplestream.tvplayer.com/petcollective/the_pet_collective_linear__high.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/fine-living-770x439_c.png" group-title="USA",Fine Living
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3923.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_Food_Network.png"  group-title="USA",Food Network
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6017.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/HGTV_LOGO_Generic_Green.png" group-title="USA",HGTV
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6006.ts
-#EXTINF:-1 tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png" group-title="USA",CNN International
-http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
 #EXTINF:-1 tvg-logo="http://www.ctn.bz/multimedia/images/channel_listing/canal-7.jpg" group-title="USA",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/MSNBC-300x172.jpg" group-title="USA",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 tvg-logo="https://img3.ekrana.info/1303/travel_channel.jpg" group-title="USA",Travel Channel
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8
