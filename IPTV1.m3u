@@ -6,6 +6,7 @@ http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/
 https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Idan Plus",12 Keshet SD
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_LOW/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Idan Plus",13 Reshet
@@ -30,10 +31,6 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_193/rsz_615_346_logo_hinohit870_130818.jpg" group-title="Idan Plus",23 Kan Educational (IPBC)
 https://82-80-192-28.vidnt.com/ipbc_IPBCchannel23LVMRepeat/_definst_/smil:IPBCchannel23LVM.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/1/5/9/5/1595650-46.jpg" group-title="Idan Plus",23 Israeli Educational Television
-http://cast-tv.net:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Idan Plus",24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Idan Plus",26 Big Brother (Israel)
@@ -42,32 +39,28 @@ https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_ogImageKanArabic.jpg" group-title="Idan Plus",33 Makan (IPBC)
 https://82-80-192-27.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",66 Kabbalah La'am
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png" group-title="Idan Plus",Meir TV
-http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Hidabrut
-http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Knesset Channel
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Idan Plus",99 Knesset
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/.m3u8
+#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Idan Plus",99 Knesset
+https://5b521da1be28f.streamlock.net/Knesset/myStream/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Idan Plus",Walla News
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live 1
-https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live 2
+#EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Idan Plus",euronews.
 https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1
-#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thebrand.co.il/wp-content/uploads/2012/07/%D7%9C%D7%A9%D7%9B%D7%AA-%D7%94%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%D7%99%D7%AA-1.jpg" group-title="Idan Plus",Israeli Goverment Press Office
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@48104/master.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Kabbalah La'am
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",Hidabrut
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="Idan Plus",JBS (Jewish Broadcasting Service)
 http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",ILand
 https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Idan Plus",Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="UN",United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
@@ -96,6 +89,8 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/A/Arte-HD-01.png" group-title="Austria",arte HD de
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Austria",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/46.png" group-title="Germany",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
@@ -113,7 +108,7 @@ https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 http://live-lh.daserste.de/i/daserste_de@91204/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/2000px-BR_Dachmarke.svg.png" group-title="Germany",BR Fernsehen
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1 tvg-logo="https://harmonyoftastecom.files.wordpress.com/2018/01/arte.png" group-title="Germany",ARTE
+#EXTINF:-1 tvg-logo="https://harmonyoftastecom.files.wordpress.com/2018/01/arte.png" group-title="Germany",arte HD de
 http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/2000px-ARD_alpha.svg.png" group-title="Germany",ARD alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
