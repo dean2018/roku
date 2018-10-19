@@ -69,14 +69,20 @@ https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Idan Plus",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations TV
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="UN",United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations Live
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="UN",United Nations Live
 https://bcliveunivsecure-lh.akamaihd.net/i/morestakeout_1@575456/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations Live
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="UN",United Nations Live
 https://bcliveunivsecure-lh.akamaihd.net/i/stakeout_1@575457/master.m3u8
-#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="United Nations",United Nations Live
+#EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="UN",United Nations Live
 https://bcliveunivsecure-lh.akamaihd.net/i/cr4_1@575441/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://ec.europa.eu/avservices/images/new_logo_ebs.png" group-title="EU",Europe by Satellite
+https://ott.ec.streamcloud.be/live/disk1/EBS/hls_en/EBS.m3u8
+#EXTINF:-1 tvg-logo="http://ec.europa.eu/avservices/images/new_logo_ebsplus.png" group-title="EU",Europe by Satellite Plus
+https://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_en/EBSplus.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ORFeins.svg/2000px-ORFeins.svg.png" group-title="Austria",ORF eins
 http://apasfiisl.apa.at/ipad/orf1_q6a/orf.sdp/playlist.m3u8
