@@ -40,8 +40,6 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Idan Plus",26 Big Brother (Israel)
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Idan Plus",euronews.
-https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1
 #EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_ogImageKanArabic.jpg" group-title="Idan Plus",33 Makan (IPBC)
 https://82-80-192-27.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Idan Plus",66 Kabbalah La'am
@@ -58,6 +56,8 @@ http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Idan Plus",Ynet Live 2
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Idan Plus",euronews.
+https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Idan Plus",JLTV (Jewish Life)
 http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.thebrand.co.il/wp-content/uploads/2012/07/%D7%9C%D7%A9%D7%9B%D7%AA-%D7%94%D7%A2%D7%99%D7%AA%D7%95%D7%A0%D7%95%D7%AA-%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%AA%D7%99%D7%AA-1.jpg" group-title="Idan Plus",Israeli Goverment Press Office
@@ -92,6 +92,10 @@ http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ORF_Sport_%2B.svg/1280px-ORF_Sport_%2B.svg.png" group-title="Austria",ORF SPORT +
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.illusion-walk.com/wp-content/uploads/2018/03/logo-arte-tv.jpg" group-title="Austria",arte fr
+https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/A/Arte-HD-01.png" group-title="Austria",arte HD de
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/46.png" group-title="Germany",WDR
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
