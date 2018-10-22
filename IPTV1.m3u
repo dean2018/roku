@@ -69,8 +69,6 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ctn.bz/multimedia/images/channel_listing/canal-7.jpg" group-title="NEWS",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.ncrius.org/wp-content/uploads/2017/02/FOX-NEWS-864x445.png" group-title="NEWS",FOX NEWS
-https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_0_2564000.m3u8
 
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/un_logo_webtv.png" group-title="UN",United Nations TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_1@575439/master.m3u8
