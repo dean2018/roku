@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Israel",9
 http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC)
@@ -36,6 +35,8 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Israel",26 Big Brother (Israel)
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://pms.panet.co.il/online/images//articles/2017/09/24-09-2017/Doha/02/Untitled-1.jpg" group-title="Israel",30 Hala
+https://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_ogImageKanArabic.jpg" group-title="Israel",33 Makan (IPBC)
 https://82-80-192-27.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Israel",99 Knesset
