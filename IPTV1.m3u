@@ -68,8 +68,14 @@ https://trtworld.ercdn.net/trtworld/trtworld.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.ap-southeast-1.amazonaws.com/cdn.deccanchronicle.com/sites/default/files/Al%20Jazeera.png.jpg" group-title="NEWS",ALJAZEERA
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.engage.it/wp-content/uploads/2015/06/cnn-logo-600x400.jpg" group-title="NEWS",CNN
+http://nbcnews-lh.akamaihd.net/i/nbc_live32@76588/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/MSNBC-300x172.jpg" group-title="NEWS",MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-logo="https://aclion.com/wp-content/uploads/2018/04/NBC-News-Logo.png" group-title="NEWS",NBC NEWS
+http://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MzYwOTg5NTk1MjE1MjE0/abc-news-logo-resized-bc.png" group-title="NEWS",abc NEWS
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ctn.bz/multimedia/images/channel_listing/canal-7.jpg" group-title="NEWS",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
