@@ -40,9 +40,7 @@ https://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_ogImageKanArabic.jpg" group-title="Israel",33 Makan (IPBC)
 https://82-80-192-27.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Israel",99 Knesset
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/.m3u8
-#EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Israel",99 Knesset
-https://5b521da1be28f.streamlock.net/Knesset/myStream/.m3u8
+https://w1.013.gostreaming.tv/Knesset/myStream/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Israel",Walla News
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Israel",Ynet Live
@@ -68,12 +66,6 @@ https://trtworld.ercdn.net/trtworld/trtworld.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-logo="https://s3.ap-southeast-1.amazonaws.com/cdn.deccanchronicle.com/sites/default/files/Al%20Jazeera.png.jpg" group-title="NEWS",ALJAZEERA
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.engage.it/wp-content/uploads/2015/06/cnn-logo-600x400.jpg" group-title="NEWS",CNN
-http://nbcnews-lh.akamaihd.net/i/nbc_live32@76588/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.livenewsus.com/wp-content/uploads/2016/09/MSNBC-300x172.jpg" group-title="NEWS",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:-1 tvg-logo="https://aclion.com/wp-content/uploads/2018/04/NBC-News-Logo.png" group-title="NEWS",NBC NEWS
-http://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MzYwOTg5NTk1MjE1MjE0/abc-news-logo-resized-bc.png" group-title="NEWS",abc NEWS
 http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.ctn.bz/multimedia/images/channel_listing/canal-7.jpg" group-title="NEWS",The Weather Channel
@@ -104,7 +96,7 @@ http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
 http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.illusion-walk.com/wp-content/uploads/2018/03/logo-arte-tv.jpg" group-title="Austria",arte fr
 https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/A/Arte-HD-01.png" group-title="Austria",arte HD de
+#EXTINF:-1 tvg-logo="https://www.brandeps.com/logo-download/A/Arte-HD-01.png" group-title="Austria",arte de
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-WGkx9SHcvJI/UWfpznRLeWI/AAAAAAAAPGI/epy_V1Pn7mM/s1600/classic-arts-showcase-3.jpg" group-title="Austria",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
