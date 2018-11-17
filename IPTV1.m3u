@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Israel",9
 http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-BbwsM-6h7Qg/AAAAAAAAAAI/AAAAAAAAAAA/S-9eysJS6os/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",11 Kan (IPBC)
-https://82-80-192-28.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_11.png" group-title="Israel",11 Kan (IPBC)
+https://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet SD
@@ -28,7 +28,7 @@ https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Israel",21 Shopping Channel
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_193/rsz_615_346_logo_hinohit870_130818.jpg" group-title="Israel",23 Kan Educational (IPBC)
-https://82-80-192-28.vidnt.com/ipbc_IPBCchannel23LVMRepeat/_definst_/smil:IPBCchannel23LVM.smil/playlist.m3u8
+https://kanlive.akamaized.net/kan23/smil:kan23_mp4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Israel",26 Big Brother (Israel)
@@ -36,9 +36,9 @@ https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Israel",26 Big Brother (Israel)
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://pms.panet.co.il/online/images//articles/2017/09/24-09-2017/Doha/02/Untitled-1.jpg" group-title="Israel",30 Hala
-https://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.makan.org.il/images/logo_ogImageKanArabic.jpg" group-title="Israel",33 Makan (IPBC)
-https://82-80-192-27.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+http://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_33.png" group-title="Israel",33 Makan (IPBC)
+https://kanlive.akamaized.net/makantv/smil:makantv_mp4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Israel",99 Knesset
 https://w1.013.gostreaming.tv/Knesset/myStream/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Israel",Walla News
@@ -49,14 +49,14 @@ https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@48104/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",Kabbalah La'am
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",Hidabrut
-http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-rLDRzQj5Ogs/AAAAAAAAAAI/AAAAAAAAAAA/AyzxScGAc54/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",97 Hidabrut
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.ethnicchannels.com/images/channeldetail/jltv/jltv-final.jpg" group-title="Israel",JLTV (Jewish Life)
-http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/JBS_Shalom_TV_Logo.jpg" group-title="Israel",JBS (Jewish Broadcasting Service)
 http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-05eXppZi984/AAAAAAAAAAI/AAAAAAAAAAA/wZTKn8Ip81o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Israel",ILand
-https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.rs.gov.ru/uploads/news/cover/24783/compressed_file.jpeg" group-title="Israel",ILand
+https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NEWS",euronews.
 https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1
