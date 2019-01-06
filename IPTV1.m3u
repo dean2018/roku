@@ -58,8 +58,6 @@ http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.rs.gov.ru/uploads/news/cover/24783/compressed_file.jpeg" group-title="Israel",ILand
 https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="NEWS",euronews.
-https://stream-02.nyc.dailymotion.com/25/dm/3/x2j4h4m/live.m3u8?e=1527658395&st=M_0lCdZkrOEbejsFj1_YJg#cell=lnyc&qos_stail=1
 #EXTINF:-1 tvg-logo="http://www.trtworld.com/images/share-1000x500.png" group-title="NEWS",TRT WORLD
 https://trtworld.ercdn.net/trtworld/trtworld.m3u8
 #EXTINF:-1 tvg-logo="https://www.livas.lv/media/deutsche_welle_tv.jpg" group-title="NEWS",DW
@@ -109,8 +107,6 @@ https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
 https://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.zdf.de/static/0.37.3245/img/logos/epg/zdfneo-black.svg" group-title="Germany",ZDFinfo
 https://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Germany",ZDF KULTUR
-http://zdf_hds_de-f.akamaihd.net/i/de11_v1@87013/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.zdf.de/static/0.37.3245/img/logos/epg/zdfneo-black.svg" group-title="Germany",3sat
 https://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/71.png" group-title="Germany",Das Erste
