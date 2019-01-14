@@ -4,11 +4,9 @@ http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/
 #EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_11.png" group-title="Israel",11 Kan (IPBC)
 https://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet SD
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_LOW/index.m3u8
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
-https://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8
+https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet SD
 http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser
@@ -20,7 +18,7 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Israel",Israeli News Company SD
 http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_177/rsz_615_346_ahadashot615_021117.jpg" group-title="Israel",Israeli News Company SD
-https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunklist.m3u8
+https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunklist_b1908736.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",The Best of Keshet
 https://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Israel",20
@@ -30,11 +28,9 @@ http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21T
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_193/rsz_615_346_logo_hinohit870_130818.jpg" group-title="Israel",23 Kan Educational (IPBC)
 https://kanlive.akamaized.net/kan23/smil:kan23_mp4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Israel",26 Big Brother (Israel)
 https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Israel",26 Big Brother (Israel)
-https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8
 #EXTINF:-1 tvg-logo="http://pms.panet.co.il/online/images//articles/2017/09/24-09-2017/Doha/02/Untitled-1.jpg" group-title="Israel",30 Hala
 http://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_33.png" group-title="Israel",33 Makan (IPBC)
