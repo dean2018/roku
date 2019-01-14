@@ -2,13 +2,11 @@
 #EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png" group-title="Israel",9
 http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_11.png" group-title="Israel",11 Kan (IPBC)
-https://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/chunklist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
 https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet SD
-http://besttv61.aoslive.it.best-tv.com/reshet/applicaster/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser
 https://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser (+6 hours)
@@ -22,21 +20,21 @@ https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/chunk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/c/cf/Keshet_ch12.png" group-title="Israel",The Best of Keshet
 https://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png" group-title="Israel",20
-https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+https://dvr.ch20-cdnwiz.com/hls/dvr_high/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_117/rsz_615_346_knyut19_12.jpg" group-title="Israel",21 Shopping Channel
-http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
+http://62.90.90.34/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w669062430_b2128000.m3u8
 #EXTINF:-1 tvg-logo="http://img.bizportal.co.il/giflib/news/rsPhoto/sz_193/rsz_615_346_logo_hinohit870_130818.jpg" group-title="Israel",23 Kan Educational (IPBC)
-https://kanlive.akamaized.net/kan23/smil:kan23_mp4.smil/chunklist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700,t_18/5/3/1/7/531789-46.jpg" group-title="Israel",24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/032611212d95e4723a8f1c997a9788f1.png" group-title="Israel",26 Big Brother (Israel)
-https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist.m3u8
+https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b1736704.m3u8
 #EXTINF:-1 tvg-logo="http://pms.panet.co.il/online/images//articles/2017/09/24-09-2017/Doha/02/Untitled-1.jpg" group-title="Israel",30 Hala
 http://wowza.panet.co.il:1935/live/smil:halaTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_33.png" group-title="Israel",33 Makan (IPBC)
-https://kanlive.akamaized.net/makantv/smil:makantv_mp4.smil/chunklist.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.wcdn.co.il/f_auto,w_700/2/6/4/7/2647016-46.jpeg" group-title="Israel",99 Knesset
-https://w1.013.gostreaming.tv/Knesset/myStream/.m3u8
+https://w1.013.gostreaming.tv/Knesset/myStream/chunklist_w1791064951.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2015/07/11702740_715370831902412_1055768855725107597_n4-672x378.jpg" group-title="Israel",Walla News
 http://82.80.192.27/walla_ulpanRepeat/_definst_/smil:ulpan.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.the7eye.org.il/uploads/2014/12/24324.jpg" group-title="Israel",Ynet Live
