@@ -4,7 +4,7 @@ http://besttv501.aoslive.it.best-tv.com/egress/bhandler/contactgbs/gostreaming1/
 #EXTINF:-1 tvg-logo="https://www.kan.org.il/images/logo_livemenu_11.png" group-title="Israel",11 Kan (IPBC)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://img.mako.co.il/2017/04/26/keshet.jpg" group-title="Israel",12 Keshet
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8?as=1&hdnea=st%3D1547595174%7Eexp%3D1547596074%7Eacl%3D%2F*%7Ehmac%3Dea65467da450460dca6b309bf2f5b26da0f0a1b7642a640010f47fa0fc43892e
+https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_3100.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DGNaraoXYAA9lvg.jpg" group-title="Israel",13 Reshet
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/8/87/Arutzeser.svg/1200px-Arutzeser.svg.png" group-title="Israel",14 Eser
